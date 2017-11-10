@@ -1,0 +1,28 @@
+import pandas as pd
+
+names = ['data/income.csv','data/population.csv','data/race.csv','data/education.csv']
+for name in names:
+    #import files into python
+    df = pd.read_csv(name,encoding='mac_roman')
+    for column in df:
+        val = df.at[5,column]
+        if val == '(X)':
+            print('True')
+            df = df.drop(column, 1)
+        elif val == '*****':
+            print('True 2')
+            df = df.drop(column, 1)
+        elif 'MOE' in column:
+            print('True 3')
+            df = df.drop(column, 1)
+        elif 'Margin' in df.at[0,column]:
+            print('True 4')
+            df = df.drop(column, 1)
+        elif 'id' in column:
+            print('True 5')
+            df = df.drop(column, 1)
+    #remove first row
+    df.columns = df.iloc[0]
+    df = df.iloc[1:]
+    df.to_csv(name[:-4]+'_removed.csv')
+print('done')
