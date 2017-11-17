@@ -3,6 +3,7 @@ import numpy as np
 from os import listdir
 from os.path import isfile, join
 import pdb
+import get_y 
 
 
 us_state_abbrev = {
@@ -173,15 +174,15 @@ for i in range(trainX.shape[0]):
     total += 1
 print("Acc:" + str(num_correct/total))
 
-pdb.set_trace()
+# pdb.set_trace()
 
-X.insert(0,'names',X.index)
-mat = X.as_matrix()
-for row in mat:
-	print(str(row).encode('ascii','ignore'))
+# X.insert(0,'names',X.index)
+# mat = X.as_matrix()
+# for row in mat:
+	# print(str(row).encode('ascii','ignore'))
 
-fname = './test.csv'
-X.to_csv(fname)
+# fname = './test.csv'
+# X.to_csv(fname)
 
 
 
