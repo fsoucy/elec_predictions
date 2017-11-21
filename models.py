@@ -5,12 +5,13 @@ from os.path import isfile, join
 import pdb
 import get_y 
 import sklearn.linear_model
+from sklearn import preprocessing
 import combineData as cd 
 
 
 
 
-folder = './rem_data/'
+folder = './removed/'
 fnames = ['population.csv']
 
 X = cd.loadFilesFrom(folder)
@@ -39,7 +40,6 @@ testX = X[600:, :]; testY = Y[600:];
 
 
 model = sklearn.linear_model.LinearRegression(fit_intercept=True)
-pdb.set_trace()
 model.fit(trainX,trainY)
 print("Train R^2:" + str(model.score(trainX, trainY)))
 print("Test R^2:" + str(model.score(testX,testY)))
@@ -56,3 +56,71 @@ for i in range(trainX.shape[0]):
             num_correct += 1
     total += 1
 print("Acc:" + str(num_correct/total))
+
+
+# num_correct = 0
+# total = 0
+# for i in range(trainX.shape[0]):
+#     x = np.array([trainX[i,:]]); y = trainY[i]; predictY = model.predict(x)[0]
+#     if y < 0.5:
+#         if predictY < 0.5:
+#             num_correct += 1
+#     if y > 0.5:
+#         if predictY > 0.5:
+#             num_correct += 1
+#     total += 1
+# print("Acc:" + str(num_correct/total))
+
+def formatPercentageToLR(yvector):
+	y = yvector - 0.5
+	y  = (np.sign(y) + 1)/2.0
+	return y
+
+
+
+def testLinearReg(trainX,trainY,testX,testY):
+	print('Linear Regression')
+	model = sklearn.linear_model.LinearRegression(fit_intercept=True)
+	model.fit(trainX,trainY)
+	print("Train R^2:" + str(model.score(trainX, trainY)))
+	print("Test R^2:" + str(model.score(testX,testY)))	
+	num_correct = 0
+	total = 0
+	for i in range(trainX.shape[0]):
+	    x = np.array([trainX[i,:]]); y = trainY[i]; predictY = model.predict(x)[0]
+	    if y < 0.5 and predictY < 0.5:
+	    	num_correct += 1
+	    if y > 0.5 and predictY > 0.5:
+	    	num_correct += 1
+	    total += 1
+	print("Acc:" + str(num_correct/total))
+
+
+
+def testLR(trainX,trainY, testX,testY):
+	print('Logistic Regression')
+
+	le = preprocessing.LabelEncoder()
+	trainY = le.fit_transform(trainY)
+	testY = le.transform(testY)
+
+
+	model = sklearn.linear_model.LogisticRegression()
+	model.fit(trainX,trainY)
+	print("Test:",str(model.score(testX,testY)) )
+	print('Train:',str(model.score(trainX,trainY)) )
+
+
+
+
+
+testLinearReg(trainX,trainY,testX,testY)
+
+
+trainY = formatPercentageToLR(trainY)
+
+testY = formatPercentageToLR(testY)
+
+
+
+testLR(trainX,trainY,testX,testY)

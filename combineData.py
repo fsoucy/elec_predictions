@@ -6,6 +6,17 @@ import pdb
 import get_y 
 
 
+
+"""
+Process for loading data:
+1. Clean up csv files 
+2. combine files into test, val, and train matrices
+3. rewrite as pickled data? 
+4. then do training
+
+"""
+
+
 us_state_abbrev = {
     'Alabama': 'AL',
     'Alaska': 'AK',
