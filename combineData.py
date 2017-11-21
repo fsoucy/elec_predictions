@@ -127,52 +127,68 @@ def addYcol(X,y):
     return X0
 
 
-folder = './data/'
-fnames = ['population.csv']
-
-X = loadFilesFrom(folder)
-y = pd.read_csv('./election_results.csv')
-X = addYcol(X,y)
-
-mat = X.as_matrix()
-mat = list(mat)
-for i in range(len(mat)):
-    for j in range(len(mat[i])):
-        val = mat[i][j]
-        try:
-            mat[i][j] = float(val)
-        except:
-            mat[i][j] = 0.0
-mat = np.array(mat)
-np.random.shuffle(mat)
-X = mat[:,:-1]
-X = X.T
-np.random.shuffle(X)
-X = X.T
-X = X[:,:250]
-Y = mat[:,-1]
-trainX = X[:600,:]; trainY = Y[:600];
-testX = X[600:, :]; testY = Y[600:];
 
 
-import sklearn.linear_model
-model = sklearn.linear_model.LinearRegression(fit_intercept=True)
-model.fit(trainX,trainY)
-print("Train R^2:" + str(model.score(trainX, trainY)))
-print("Test R^2:" + str(model.score(testX,testY)))
 
-num_correct = 0
-total = 0
-for i in range(trainX.shape[0]):
-    x = np.array([trainX[i,:]]); y = trainY[i]; predictY = model.predict(x)[0]
-    if y < 0.5:
-        if predictY < 0.5:
-            num_correct += 1
-    if y > 0.5:
-        if predictY > 0.5:
-            num_correct += 1
-    total += 1
-print("Acc:" + str(num_correct/total))
+
+
+
+
+
+
+
+
+
+
+
+
+
+# folder = './data/'
+# fnames = ['population.csv']
+
+# X = loadFilesFrom(folder)
+# y = pd.read_csv('./election_results.csv')
+# X = addYcol(X,y)
+
+# mat = X.as_matrix()
+# mat = list(mat)
+# for i in range(len(mat)):
+#     for j in range(len(mat[i])):
+#         val = mat[i][j]
+#         try:
+#             mat[i][j] = float(val)
+#         except:
+#             mat[i][j] = 0.0
+# mat = np.array(mat)
+# np.random.shuffle(mat)
+# X = mat[:,:-1]
+# X = X.T
+# np.random.shuffle(X)
+# X = X.T
+# X = X[:,:250]
+# Y = mat[:,-1]
+# trainX = X[:600,:]; trainY = Y[:600];
+# testX = X[600:, :]; testY = Y[600:];
+
+
+# import sklearn.linear_model
+# model = sklearn.linear_model.LinearRegression(fit_intercept=True)
+# model.fit(trainX,trainY)
+# print("Train R^2:" + str(model.score(trainX, trainY)))
+# print("Test R^2:" + str(model.score(testX,testY)))
+
+# num_correct = 0
+# total = 0
+# for i in range(trainX.shape[0]):
+#     x = np.array([trainX[i,:]]); y = trainY[i]; predictY = model.predict(x)[0]
+#     if y < 0.5:
+#         if predictY < 0.5:
+#             num_correct += 1
+#     if y > 0.5:
+#         if predictY > 0.5:
+#             num_correct += 1
+#     total += 1
+# print("Acc:" + str(num_correct/total))
 
 # pdb.set_trace()
 
