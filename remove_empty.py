@@ -1,32 +1,39 @@
 import pandas as pd
 import pdb
 
-names = ['data/income.csv','data/population.csv','data/race.csv','data/education.csv']
+names = ['./data/income.csv','./data/population.csv','./data/race.csv','./data/education.csv']
 for name in names:
     #import files into python
     
     df = pd.read_csv(name,encoding='mac_roman')
+    df2 = df.set_index('Geography')
+    # print('Columns:',list(df2.columns.values))
+    # print('rows:',df2.index)
+    # df = df2
+
     for column in df:
         val = df.at[5,column]
         if val == '(X)':
-            print('True')
+            # print('True')
             df = df.drop(column, 1)
         elif val == '*****':
-            print('True 2')
+            # print('True 2')
             df = df.drop(column, 1)
         elif 'MOE' in column:
-            print('True 3')
+            # print('True 3')
             df = df.drop(column, 1)
         elif isinstance(df.at[0,column],str) and 'Margin' in df.at[0,column]:
-            print('True 4')
+            # print('True 4')
             df = df.drop(column, 1)
         elif 'id' in column:
-            print('True 5')
+            # print('True 5')
             df = df.drop(column, 1)
     #remove first row
-    df.columns = df.iloc[0]
-    df = df.iloc[1:]
-    df.to_csv("rem_data/" + name[5:-4]+'_removed.csv')
+    # df.columns = df.iloc[0]
+    # df = df.iloc[1:]
+    df = df.set_index('Geography')
+    print('Num Cols:',len(list(df.columns.values)))
+    df.to_csv("./cleanedData" + name[6:-4]+'_removed.csv')
 print('done')
 
 
