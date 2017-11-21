@@ -10,7 +10,7 @@ import combineData as cd
 
 
 
-folder = './data/'
+folder = './rem_data/'
 fnames = ['population.csv']
 
 X = cd.loadFilesFrom(folder)
@@ -39,6 +39,7 @@ testX = X[600:, :]; testY = Y[600:];
 
 
 model = sklearn.linear_model.LinearRegression(fit_intercept=True)
+pdb.set_trace()
 model.fit(trainX,trainY)
 print("Train R^2:" + str(model.score(trainX, trainY)))
 print("Test R^2:" + str(model.score(testX,testY)))
