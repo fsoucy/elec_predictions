@@ -12,10 +12,11 @@ for name in names:
         elif val == '*****':
             print('True 2')
             df = df.drop(column, 1)
+        elif val == ''
         elif 'MOE' in column:
             print('True 3')
             df = df.drop(column, 1)
-        elif isinstance(df.at[0,column],str) and 'Margin' in df.at[0,column]:
+        elif 'Margin' in df.at[0,column]:
             print('True 4')
             df = df.drop(column, 1)
         elif 'id' in column:
