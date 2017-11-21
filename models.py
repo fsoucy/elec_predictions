@@ -11,8 +11,7 @@ import combineData as cd
 
 
 
-folder = './removed/'
-fnames = ['population.csv']
+folder = './no_edu_data/'
 
 X = cd.loadFilesFrom(folder)
 y = pd.read_csv('./election_results.csv')
@@ -33,7 +32,9 @@ X = mat[:,:-1]
 X = X.T
 np.random.shuffle(X)
 X = X.T
-X = X[:,:250]
+if (X.shape[1] > 180):
+    X = X[:,:180]
+print("Num features: " + str(X.shape[1]))
 Y = mat[:,-1]
 trainX = X[:600,:]; trainY = Y[:600];
 testX = X[600:, :]; testY = Y[600:];
@@ -44,18 +45,22 @@ model.fit(trainX,trainY)
 print("Train R^2:" + str(model.score(trainX, trainY)))
 print("Test R^2:" + str(model.score(testX,testY)))
 
-num_correct = 0
-total = 0
-for i in range(trainX.shape[0]):
-    x = np.array([trainX[i,:]]); y = trainY[i]; predictY = model.predict(x)[0]
-    if y < 0.5:
-        if predictY < 0.5:
-            num_correct += 1
-    if y > 0.5:
-        if predictY > 0.5:
-            num_correct += 1
-    total += 1
-print("Acc:" + str(num_correct/total))
+def evaluateAccuracy(model, X, Y, dataType):
+    num_correct = 0
+    total = 0
+    for i in range(X.shape[0]):
+        x = np.array([X[i,:]]); y = Y[i]; predictY = model.predict(x)[0]
+        if y < 0.5:
+            if predictY < 0.5:
+                num_correct += 1
+        if y > 0.5:
+            if predictY > 0.5:
+                num_correct += 1
+        total += 1
+    print(dataType + " Acc:" + str(num_correct/total))
+evaluateAccuracy(model, trainX, trainY, "Training")
+evaluateAccuracy(model, testX, testY, "Test")
+
 
 
 # num_correct = 0
@@ -114,7 +119,7 @@ def testLR(trainX,trainY, testX,testY):
 
 
 
-testLinearReg(trainX,trainY,testX,testY)
+#testLinearReg(trainX,trainY,testX,testY)
 
 
 trainY = formatPercentageToLR(trainY)

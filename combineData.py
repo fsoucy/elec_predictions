@@ -115,8 +115,6 @@ def addYcol(X,y):
     X0['y'] = None
     for index,row in X.iterrows():
         name = index
-        print(index)
-        pdb.set_trace()
         county,state = name.split(', ')
 
         lis = county.split(' ')
