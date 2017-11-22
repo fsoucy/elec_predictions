@@ -12,6 +12,7 @@ for name in names:
     # df = df2
 
     for column in df:
+        # print(column)
         val = df.at[5,column]
         if val == '(X)':
             # print('True')
@@ -28,6 +29,13 @@ for name in names:
         elif 'id' in column:
             # print('True 5')
             df = df.drop(column, 1)
+        elif 'Margin' in column:
+            df = df.drop(column,1)
+        elif 'Estimate' in column and 'Percent' not in column and 'education' in name:
+            df = df.drop(column,1)
+
+        
+
     #remove first row
     # df.columns = df.iloc[0]
     # df = df.iloc[1:]
