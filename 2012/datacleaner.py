@@ -186,5 +186,29 @@ Y = Y.drop(Y.columns[0:1],axis=1)
 df = addYcol(X,Y)
 df.to_csv('./dataWithY.csv')
 
+X12 = X.copy(deep = True)
+Y12 = Y.copy(deep = True)
 
 
+########################################################################################################
+# Combining 2016 and 2012
+
+fname2016 = './combinedData2016.csv'
+mat16 = pd.read_csv(fname2016,encoding='mac_roman',header=0,index_col=0)
+
+Y16 = mat16.iloc[:,-1]
+mat16 = mat16.drop(mat16.columns[-1],axis=1)
+X16 = mat16.copy(deep = True)
+
+features16 = X16.columns
+features12 = X12.columns
+
+d = {}
+for f12 in features12:
+    for f16 in features16:
+        if f16 == f12:
+            d[f12] = True
+    if not d.get(f12,False):
+        d[f12] = False
+
+ 
