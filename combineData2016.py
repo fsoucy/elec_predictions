@@ -93,7 +93,7 @@ def loadFiles(folder,fnames):
 		if len(data.index) == 1:
 			data = new
 		else:
-			data.join(new,lsuffix='_data_'+oldname,rsuffix='_data_'+fname)
+			data = data.join(new,lsuffix='_data_'+oldname,rsuffix='_data_'+fname)
 
 		oldname = fname
 	return data
