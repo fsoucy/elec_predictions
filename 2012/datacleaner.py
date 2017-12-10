@@ -172,7 +172,7 @@ def removeXcols(X):
     return df
 
 
-folder_name = './ogData/'
+folder_name = './eduData/'
 X = loadFilesFrom(folder_name)
 X.to_csv('./combinedXdata.csv')
 # print('total number columns:',len(list(X.columns.values)))
@@ -193,6 +193,110 @@ Y12 = Y.copy(deep = True)
 ########################################################################################################
 # Combining 2016 and 2012
 
+def getSimilar(feat12,feat16):
+    """
+    feat12 and feat16 are feature strings. 
+    """
+
+    redundant = ['all','(dollars)','(SSI)','or','and','-','some','is','for','whom','by','attainment','level','higher','imputed','allocated']
+
+    f12 = feat12
+    f16 = feat16
+
+    while '(' in f12 or ')' in f12:
+        if '(' in f12:
+            ind = f12.index('(')
+            f12 = f12[:ind] + f12[ind + 1:]
+        if ')' in f12:
+            ind = f12.index(')')
+            f12 = f12[:ind] + f12[ind + 1:]
+
+    while '(' in f16 or ')' in f16:
+        if '(' in f16:
+            ind = f16.index('(')
+            f16 = f16[:ind] + f16[ind + 1:]
+        if ')' in f16:
+            ind = f16.index(')')
+            f16 = f16[:ind] + f16[ind + 1:]
+
+
+    list12 = f12.split('; ')
+    list16 = f16.split('; ')
+
+    temp = []
+    for e in list12:
+        temp.append(e.split(' '))
+    temp = [item.lower() for sublist in temp for item in sublist]
+    new = []
+    for word in temp:
+        if word not in redundant:
+            if word == 'family' or word == 'families':
+                new.append('households')
+            elif word == 'household':
+                new.append('households')
+            else:
+                new.append(word)
+
+    list12 = new
+
+    temp = []
+    for e in list16:
+        temp.append(e.split(' '))
+    temp = [item.lower() for sublist in temp for item in sublist]
+    new = []
+    for word in temp:
+        if word not in redundant:
+            if word == 'family' or word == 'families':
+                new.append('households')
+            elif word == 'household':
+                new.append('households')
+            else:
+                new.append(word)
+
+    list16 = new
+
+    check12in16 = False
+    check16in12 = False
+    count12 = 0
+    count16 = 0
+
+    diff = []
+
+    for f12 in list12:
+        if f12 in list16:
+            count12 += 1
+        else:
+            diff.append(f12)
+
+    for f16 in list16:
+        if f16 in list12:
+            count16 += 1
+        else:
+            diff.append(f16)
+
+    if len(list12) == count12:
+        check12in16 = True
+    if len(list16) == count16:
+        check16in12 = True
+
+    if check16in12 and check12in16:
+        check = True
+        print('Check is True')
+    else:
+        print('check12in16:', check12in16)
+        print('check16in12:',check16in12)
+        check = False
+
+    print('List 12:',list12)
+    print('List 16:',list16)
+    print('Diff:',diff)
+    if len(diff) == 1:
+        check = True
+    return check
+
+    
+
+
 fname2016 = './combinedData2016.csv'
 mat16 = pd.read_csv(fname2016,encoding='mac_roman',header=0,index_col=0)
 
@@ -200,15 +304,35 @@ Y16 = mat16.iloc[:,-1]
 mat16 = mat16.drop(mat16.columns[-1],axis=1)
 X16 = mat16.copy(deep = True)
 
-features16 = X16.columns
-features12 = X12.columns
+features16 = list(X16.columns)
+features12 = list(X12.columns)
+
+# features16 = features16[:10]
+# features12 = features12[:10]
+
+print('features12:',len(features12))
+print('features16:',len(features16))
 
 d = {}
+count = 0
 for f12 in features12:
+    print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
     for f16 in features16:
-        if f16 == f12:
-            d[f12] = True
+        print('###########################################################')
+        print('f12:',f12)
+        print('f16:',f16)
+        out  = getSimilar(f12,f16)
+        if out == True and f16 not in d.values():
+            d[f12] = f16
+            count += 1
+            break
     if not d.get(f12,False):
         d[f12] = False
 
+for k,v in d.items():
+    if v is not False:
+        print('#############################################')
+        print('key:',k)
+        print('value:',v)
+print('count:',count)
  

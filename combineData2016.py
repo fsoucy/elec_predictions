@@ -139,7 +139,7 @@ def addYcol(X,y):
 
 
 
-X = loadFilesFrom('./cleanedData/')
+X = loadFiles('./cleanedData/',['education_removed.csv'])
 y = pd.read_csv('./election_results.csv')
 X = addYcol(X,y)
 X.to_csv('./2012/combinedData2016.csv')
