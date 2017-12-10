@@ -143,39 +143,33 @@ def addYcol(X,y):
     return X0
 
 def removeXcols(X):
-	df = X.copy(deep=True)
+    df = X.copy(deep=True)
 
-	for column in df:
+    for column in df:
 	        # print(column)
-	        col = df[column]
+            col = df[column]
 	        # print('col:',col)
-	        val = col.iloc[5]
-	        if val == '(X)':
+            val = col.iloc[5]
+            if val == '(X)':
 	            # print('True')
-	            df = df.drop(column, axis=1)
-	        elif val == '*****':
+                df = df.drop(column, axis=1)
+            elif val == '*****':
 	            # print('True 2')
-	            df = df.drop(column, axis=1)
-	        elif 'MOE' in column:
+                df = df.drop(column, axis=1)
+            elif 'MOE' in column:
 	            # print('True 3')
-	            df = df.drop(column, axis=1)
-	        elif isinstance(col.iloc[0],str) and 'Margin' in col.iloc[0]:
+                df = df.drop(column, axis=1)
+            elif isinstance(col.iloc[0],str) and 'Margin' in col.iloc[0]:
 	            # print('True 4')
-	            df = df.drop(column, axis=1)
-	        elif 'id' in column:
+                df = df.drop(column, axis=1)
+            elif 'id' in column:
 	            # print('True 5')
-	            df = df.drop(column, axis=1)
-	        elif 'Margin' in column:
-	            df = df.drop(column,axis=1)
-	        # elif 'Estimate' in column and 'Percent' not in column:
-	        #     df = df.drop(column,axis=1)
+                df = df.drop(column, axis=1)
+            elif 'Margin' in column:
+                df = df.drop(column,axis=1)
 
-	        
-
-
-	# df = df.set_index('Geography')
-	# print('Num Cols:',len(list(df.columns.values)))
-	df.to_csv('./cleanedData.csv')
+    df.to_csv('./cleanedData.csv')
+    return df
 
 
 folder_name = './ogData/'
@@ -183,7 +177,7 @@ X = loadFilesFrom(folder_name)
 X.to_csv('./combinedXdata.csv')
 # print('total number columns:',len(list(X.columns.values)))
 
-removeXcols(X)
+X = removeXcols(X)
 
 y_name = './modified_elec_results.csv'
 Y =  getYVals(y_name)
