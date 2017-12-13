@@ -1,376 +1,188 @@
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0436187
-Total; Estimate; All households - With cash public assistance income: 0.0371567
-Mean income (dollars); Estimate; Hispanic or Latino origin (of any race): 0.0355412
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.0339257
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0323102
-Total; Estimate; All households - With Supplemental Security Income (SSI): 0.0306947
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0306947
-Percent Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0274637
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0242326
-Percent Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0210016
-Percent Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0193861
-Estimate; Total: - Two or more races:: 0.0193861
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0193861
-Percent Males; Estimate; Population 25 years and over - Some college, no degree: 0.0177706
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0177706
-Estimate; Total: - Two or more races: - Two races including Some other race: 0.0177706
-Mean income (dollars); Estimate; All households - With Social Security income: 0.0177706
-Total; Estimate; White alone, not Hispanic or Latino: 0.0177706
-Percent; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0161551
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0145396
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0145396
-Percent Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0129241
-Percent Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.0129241
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0129241
-Mean income (dollars); Estimate; All households - With cash public assistance income: 0.0129241
-Percent Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0113086
-Percent Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0113086
-Mean income (dollars); Estimate; All households - With Supplemental Security Income (SSI): 0.0113086
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0113086
-Percent Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00969305
-Percent; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00969305
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00969305
-Estimate; Total: - Black or African American alone: 0.00969305
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.00969305
-Percent; Estimate; Population 25 years and over - Some college, no degree: 0.00807754
-Percent Females; Estimate; Population 25 years and over - Associate's degree: 0.00807754
-Percent Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.00807754
-Percent Females; Estimate; Population 65 years and over - High school graduate or higher: 0.00807754
-Percent Males; Estimate; Some other race alone - High school graduate or higher: 0.00807754
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00807754
-Mean income (dollars); Estimate; All households - With retirement income: 0.00807754
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00807754
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00807754
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00807754
-Total; Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.00807754
-Percent; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.00646204
-Percent Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00646204
-Percent Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.00646204
-Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.00646204
-Percent; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00646204
-Percent Females; Estimate; Black alone - High school graduate or higher: 0.00646204
-Percent; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00646204
-Percent Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00646204
-Estimate; Total: - Asian alone: 0.00646204
-Total; Estimate; All households - With Social Security income: 0.00646204
-Total; Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.00646204
-Percent Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00484653
-Percent; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00484653
-Percent Females; Estimate; Population 25 years and over - Less than 9th grade: 0.00484653
-Percent; Estimate; Population 25 years and over - Associate's degree: 0.00484653
-Percent Males; Estimate; Population 25 years and over - Bachelor's degree: 0.00484653
-Percent Females; Estimate; Percent bachelor's degree or higher: 0.00484653
-Percent; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00484653
-Percent Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00484653
-Percent Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00484653
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00484653
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.00484653
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00484653
-Estimate; Total: 0.00323102
-Percent; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00323102
-Percent Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.00323102
-Percent; Estimate; Percent bachelor's degree or higher: 0.00323102
-Percent Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00323102
-Percent Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00323102
-Percent Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Population 45 to 64 years - High school graduate or higher: 0.00323102
-Percent Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.00323102
-Percent Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Black alone - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Some other race alone - High school graduate or higher: 0.00323102
-Percent Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00323102
-Percent; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00323102
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00323102
-Total; Estimate; All households - With retirement income: 0.00323102
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00323102
-Percent Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.00161551
-Percent; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00161551
-Percent Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00161551
-Percent Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.00161551
-Percent Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00161551
-Percent; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00161551
-Percent Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00161551
-Percent Males; Estimate; Population 25 years and over - Associate's degree: 0.00161551
-Percent Females; Estimate; Population 25 years and over - Bachelor's degree: 0.00161551
-Percent; Estimate; Population 25 years and over - Graduate or professional degree: 0.00161551
-Percent; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.00161551
-Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00161551
-Percent Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.00161551
-Percent; Estimate; Asian alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; Asian alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00161551
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00161551
-Estimate; Total: - Some other race alone: 0.00161551
-Total; Estimate; All households - With earnings: 0.00161551
-Mean income (dollars); Estimate; All households - With earnings: 0.00161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00161551
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00161551
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00161551
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.00161551
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00161551
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.00161551
-Mean income (dollars); Estimate; White alone, not Hispanic or Latino: 0.00161551
+Total; Estimate; All households - With cash public assistance income: 0.0584615
+Percent Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0446154
+Total; Estimate; All households - With Supplemental Security Income (SSI): 0.0323077
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0292308
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0276923
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0261538
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.0261538
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0215385
+Percent Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.02
+Percent; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0184615
+Percent Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0184615
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0184615
+Mean income (dollars); Estimate; All households - With Social Security income: 0.0184615
+Total; Estimate; White alone, not Hispanic or Latino: 0.0184615
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0169231
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0169231
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0169231
+Percent Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0138462
+Percent Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0138462
+Estimate; Total: - Two or more races: - Two races including Some other race: 0.0138462
+Mean income (dollars); Estimate; All households - With retirement income: 0.0138462
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0138462
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0138462
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.0138462
+Percent Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0123077
+Percent Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0123077
+Percent; Estimate; Population 25 years and over - Some college, no degree: 0.0107692
+Percent Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.0107692
+Estimate; Total: - White alone: 0.0107692
+Estimate; Total: - Asian alone: 0.0107692
+Estimate; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0107692
+Estimate; Total: - Some other race alone: 0.0107692
+Mean income (dollars); Estimate; Hispanic or Latino origin (of any race): 0.0107692
+Percent Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.00923077
+Percent Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.00923077
+Estimate; Total: - Black or African American alone: 0.00923077
+Total; Estimate; All households - With Social Security income: 0.00923077
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00923077
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.00923077
+Percent; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.00769231
+Percent Females; Estimate; Black alone - High school graduate or higher: 0.00769231
+Percent Males; Estimate; Some other race alone - High school graduate or higher: 0.00769231
+Mean income (dollars); Estimate; All households - With cash public assistance income: 0.00769231
+Mean income (dollars); Estimate; White alone, not Hispanic or Latino: 0.00769231
+Total; Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.00769231
+Percent Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.00615385
+Percent; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00615385
+Percent; Estimate; Population 65 years and over - High school graduate or higher: 0.00615385
+Percent Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00615385
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00615385
+Estimate; Total: - Two or more races:: 0.00615385
+Total; Estimate; All households - With earnings: 0.00615385
+Mean income (dollars); Estimate; All households - With earnings: 0.00615385
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00615385
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.00615385
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00615385
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00615385
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00615385
+Percent Males; Estimate; Population 25 years and over - Some college, no degree: 0.00461538
+Percent Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.00461538
+Percent; Estimate; Population 25 to 34 years - High school graduate or higher: 0.00461538
+Percent Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00461538
+Percent; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00461538
+Percent; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00461538
+Percent; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00461538
+Percent Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00461538
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00461538
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00461538
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00461538
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00461538
+Mean income (dollars); Estimate; All households: 0.00461538
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00461538
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.00461538
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.00461538
+Total; Estimate; Hispanic or Latino origin (of any race): 0.00461538
+Total; Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.00461538
+Percent Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00307692
+Percent Females; Estimate; Population 25 years and over - Some college, no degree: 0.00307692
+Percent Females; Estimate; Population 25 years and over - Associate's degree: 0.00307692
+Percent; Estimate; Population 25 years and over - Bachelor's degree: 0.00307692
+Percent Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.00307692
+Percent Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00307692
+Percent Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00307692
+Percent Females; Estimate; Population 65 years and over - High school graduate or higher: 0.00307692
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.00307692
+Percent Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00307692
+Percent; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00307692
+Percent; Estimate; Asian alone - High school graduate or higher: 0.00307692
+Percent; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00307692
+Percent Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00307692
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00307692
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.00307692
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00307692
+Percent; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00153846
+Percent Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00153846
+Percent Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00153846
+Percent; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00153846
+Percent Males; Estimate; Population 25 years and over - Associate's degree: 0.00153846
+Percent Males; Estimate; Population 25 years and over - Bachelor's degree: 0.00153846
+Percent; Estimate; Population 25 years and over - Graduate or professional degree: 0.00153846
+Percent; Estimate; Percent bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Percent bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.00153846
+Percent Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00153846
+Percent; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.00153846
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00153846
+Percent; Estimate; Black alone - High school graduate or higher: 0.00153846
+Percent; Estimate; Black alone - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Asian alone - High school graduate or higher: 0.00153846
+Percent; Estimate; Asian alone - Bachelor's degree or higher: 0.00153846
+Percent Males; Estimate; Asian alone - Bachelor's degree or higher: 0.00153846
+Percent Females; Estimate; Asian alone - Bachelor's degree or higher: 0.00153846
+Percent; Estimate; Some other race alone - Bachelor's degree or higher: 0.00153846
+Percent Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.00153846
+Percent Females; Estimate; Two or more races - High school graduate or higher: 0.00153846
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00153846
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00153846
+Estimate; Total: - American Indian and Alaska Native alone: 0.00153846
+Estimate; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.00153846
+Total; Estimate; All households: 0.00153846
+Mean income (dollars); Estimate; All households - With Supplemental Security Income (SSI): 0.00153846
+Total; Estimate; All households - With retirement income: 0.00153846
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00153846
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.00153846
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00153846
+Estimate; Total: 0.0
+Percent Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0
+Percent; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0
+Percent; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0
+Percent Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0
 Percent; Estimate; Population 25 years and over - Less than 9th grade: 0.0
 Percent Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0
-Percent Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0
+Percent Females; Estimate; Population 25 years and over - Less than 9th grade: 0.0
+Percent; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0
 Percent Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0
-Percent Females; Estimate; Population 25 years and over - Some college, no degree: 0.0
-Percent; Estimate; Population 25 years and over - Bachelor's degree: 0.0
+Percent Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0
+Percent; Estimate; Population 25 years and over - Associate's degree: 0.0
+Percent Females; Estimate; Population 25 years and over - Bachelor's degree: 0.0
 Percent; Estimate; Percent high school graduate or higher: 0.0
 Percent Males; Estimate; Percent high school graduate or higher: 0.0
 Percent Females; Estimate; Percent high school graduate or higher: 0.0
-Percent Males; Estimate; Percent bachelor's degree or higher: 0.0
-Percent; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
+Percent Females; Estimate; Percent bachelor's degree or higher: 0.0
 Percent Females; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
 Percent; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0
+Percent Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0
+Percent; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0
+Percent; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0
 Percent Males; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0
-Percent; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0
-Percent; Estimate; Population 65 years and over - High school graduate or higher: 0.0
+Percent Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0
 Percent Males; Estimate; Population 65 years and over - High school graduate or higher: 0.0
-Percent; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0
-Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0
+Percent Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0
 Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0
-Percent; Estimate; Black alone - High school graduate or higher: 0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0
 Percent Males; Estimate; Black alone - High school graduate or higher: 0.0
 Percent Males; Estimate; Black alone - Bachelor's degree or higher: 0.0
 Percent Females; Estimate; Black alone - Bachelor's degree or higher: 0.0
 Percent; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0
 Percent Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0
-Percent Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0
+Percent Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0
 Percent Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0
-Percent; Estimate; Asian alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Asian alone - High school graduate or higher: 0.0
 Percent Females; Estimate; Asian alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Asian alone - Bachelor's degree or higher: 0.0
 Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
 Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
 Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
 Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
 Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
 Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
+Percent; Estimate; Some other race alone - High school graduate or higher: 0.0
 Percent Females; Estimate; Some other race alone - High school graduate or higher: 0.0
-Percent; Estimate; Some other race alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0
 Percent; Estimate; Two or more races - High school graduate or higher: 0.0
 Percent Males; Estimate; Two or more races - High school graduate or higher: 0.0
-Percent Females; Estimate; Two or more races - High school graduate or higher: 0.0
 Percent; Estimate; Two or more races - Bachelor's degree or higher: 0.0
 Percent Males; Estimate; Two or more races - Bachelor's degree or higher: 0.0
 Percent Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0
 Estimate; Total:: 0.0
-Estimate; Total: - White alone: 0.0
-Estimate; Total: - American Indian and Alaska Native alone: 0.0
-Estimate; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0
-Estimate; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0
-Total; Estimate; All households: 0.0
-Mean income (dollars); Estimate; All households: 0.0
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.0
 Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0
 Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0
 Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.0
 Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.0
-Total; Estimate; Hispanic or Latino origin (of any race): 0.0
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0436187
-Total; Estimate; All households - With cash public assistance income: 0.0371567
-Mean income (dollars); Estimate; Hispanic or Latino origin (of any race): 0.0355412
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.0339257
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0323102
-Total; Estimate; All households - With Supplemental Security Income (SSI): 0.0306947
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0306947
-Percent Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0274637
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0242326
-Percent Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0210016
-Percent Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0193861
-Estimate; Total: - Two or more races:: 0.0193861
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0193861
-Percent Males; Estimate; Population 25 years and over - Some college, no degree: 0.0177706
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0177706
-Estimate; Total: - Two or more races: - Two races including Some other race: 0.0177706
-Mean income (dollars); Estimate; All households - With Social Security income: 0.0177706
-Total; Estimate; White alone, not Hispanic or Latino: 0.0177706
-Percent; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0161551
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0145396
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0145396
-Percent Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0129241
-Percent Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.0129241
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0129241
-Mean income (dollars); Estimate; All households - With cash public assistance income: 0.0129241
-Percent Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0113086
-Percent Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0113086
-Mean income (dollars); Estimate; All households - With Supplemental Security Income (SSI): 0.0113086
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0113086
-Percent Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00969305
-Percent; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00969305
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00969305
-Estimate; Total: - Black or African American alone: 0.00969305
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.00969305
-Percent; Estimate; Population 25 years and over - Some college, no degree: 0.00807754
-Percent Females; Estimate; Population 25 years and over - Associate's degree: 0.00807754
-Percent Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.00807754
-Percent Females; Estimate; Population 65 years and over - High school graduate or higher: 0.00807754
-Percent Males; Estimate; Some other race alone - High school graduate or higher: 0.00807754
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00807754
-Mean income (dollars); Estimate; All households - With retirement income: 0.00807754
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00807754
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00807754
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00807754
-Total; Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.00807754
-Percent; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.00646204
-Percent Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00646204
-Percent Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.00646204
-Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.00646204
-Percent; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00646204
-Percent Females; Estimate; Black alone - High school graduate or higher: 0.00646204
-Percent; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00646204
-Percent Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00646204
-Estimate; Total: - Asian alone: 0.00646204
-Total; Estimate; All households - With Social Security income: 0.00646204
-Total; Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.00646204
-Percent Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00484653
-Percent; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00484653
-Percent Females; Estimate; Population 25 years and over - Less than 9th grade: 0.00484653
-Percent; Estimate; Population 25 years and over - Associate's degree: 0.00484653
-Percent Males; Estimate; Population 25 years and over - Bachelor's degree: 0.00484653
-Percent Females; Estimate; Percent bachelor's degree or higher: 0.00484653
-Percent; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00484653
-Percent Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00484653
-Percent Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00484653
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.00484653
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.00484653
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00484653
-Estimate; Total: 0.00323102
-Percent; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00323102
-Percent Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.00323102
-Percent; Estimate; Percent bachelor's degree or higher: 0.00323102
-Percent Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00323102
-Percent Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00323102
-Percent Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Population 45 to 64 years - High school graduate or higher: 0.00323102
-Percent Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.00323102
-Percent Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Black alone - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; Some other race alone - High school graduate or higher: 0.00323102
-Percent Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00323102
-Percent; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00323102
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00323102
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00323102
-Total; Estimate; All households - With retirement income: 0.00323102
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00323102
-Percent Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.00161551
-Percent; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00161551
-Percent Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00161551
-Percent Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.00161551
-Percent Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00161551
-Percent; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00161551
-Percent Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00161551
-Percent Males; Estimate; Population 25 years and over - Associate's degree: 0.00161551
-Percent Females; Estimate; Population 25 years and over - Bachelor's degree: 0.00161551
-Percent; Estimate; Population 25 years and over - Graduate or professional degree: 0.00161551
-Percent; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.00161551
-Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.00161551
-Percent; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00161551
-Percent Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.00161551
-Percent; Estimate; Asian alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; Asian alone - Bachelor's degree or higher: 0.00161551
-Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00161551
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00161551
-Estimate; Total: - Some other race alone: 0.00161551
-Total; Estimate; All households - With earnings: 0.00161551
-Mean income (dollars); Estimate; All households - With earnings: 0.00161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00161551
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00161551
-Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00161551
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00161551
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.00161551
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00161551
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.00161551
-Mean income (dollars); Estimate; White alone, not Hispanic or Latino: 0.00161551
-Percent; Estimate; Population 25 years and over - Less than 9th grade: 0.0
-Percent Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0
-Percent Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0
-Percent Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0
-Percent Females; Estimate; Population 25 years and over - Some college, no degree: 0.0
-Percent; Estimate; Population 25 years and over - Bachelor's degree: 0.0
-Percent; Estimate; Percent high school graduate or higher: 0.0
-Percent Males; Estimate; Percent high school graduate or higher: 0.0
-Percent Females; Estimate; Percent high school graduate or higher: 0.0
-Percent Males; Estimate; Percent bachelor's degree or higher: 0.0
-Percent; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
-Percent Females; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0
-Percent; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0
-Percent; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0
-Percent; Estimate; Population 65 years and over - High school graduate or higher: 0.0
-Percent Males; Estimate; Population 65 years and over - High school graduate or higher: 0.0
-Percent; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0
-Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0
-Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0
-Percent; Estimate; Black alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Black alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Black alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Black alone - Bachelor's degree or higher: 0.0
-Percent; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0
-Percent Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0
-Percent Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0
-Percent; Estimate; Asian alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Asian alone - High school graduate or higher: 0.0
-Percent Females; Estimate; Asian alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Asian alone - Bachelor's degree or higher: 0.0
-Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
-Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
-Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0
-Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Some other race alone - High school graduate or higher: 0.0
-Percent; Estimate; Some other race alone - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0
-Percent; Estimate; Two or more races - High school graduate or higher: 0.0
-Percent Males; Estimate; Two or more races - High school graduate or higher: 0.0
-Percent Females; Estimate; Two or more races - High school graduate or higher: 0.0
-Percent; Estimate; Two or more races - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Two or more races - Bachelor's degree or higher: 0.0
-Percent Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0
-Percent Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0
-Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0
-Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0
-Estimate; Total:: 0.0
-Estimate; Total: - White alone: 0.0
-Estimate; Total: - American Indian and Alaska Native alone: 0.0
-Estimate; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0
-Estimate; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0
-Total; Estimate; All households: 0.0
-Mean income (dollars); Estimate; All households: 0.0
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0
-Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.0
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.0
-Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.0
-Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.0
-Total; Estimate; Hispanic or Latino origin (of any race): 0.0

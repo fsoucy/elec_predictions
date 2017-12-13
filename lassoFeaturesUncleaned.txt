@@ -1,0 +1,1794 @@
+Total; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0306651559409,4.92550373127e-06
+Total; Estimate; All households - With interest, dividends, or net rental income: 0.0246741908865,7.03165793468e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0246168834232,1.31740762017e-05
+Percent; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0210239453141,3.76828567371e-05
+Percent Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0199780058733,1.4990272576e-05
+Mean income (dollars); Estimate; All households - With Social Security income: 0.0197382286398,4.56535721254e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0191610853427,1.93802154522e-05
+Percent Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.0190501683549,8.9273163927e-06
+Percent Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.017246271636,3.29093490084e-05
+Total; Estimate; All households - With earnings: 0.0161128160141,9.67164358842e-06
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0160564337871,1.64228946885e-05
+Percent Males; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0155431698539,3.76962700021e-06
+Total; Estimate; White alone, not Hispanic or Latino_data_./data/income.csv: 0.0131431705735,8.04162527723e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.012367407059,1.39916911264e-05
+Percent Males; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.0113449306643,6.37488839603e-05
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0112710395947,1.76676874482e-06
+Percent; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0106674228934,6.28036383338e-05
+Percent Females; Estimate; Percent bachelor's degree or higher: 0.0105491049579,9.55862427825e-05
+Total; Estimate; All households - With cash public assistance income: 0.0103227626836,2.86518778662e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.0100216192502,1.91688882454e-05
+Mean income (dollars); Estimate; White alone, not Hispanic or Latino: 0.00963043045275,2.06649182814e-05
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.00906455019262,2.81777149666e-06
+Percent Males; Estimate; Population 45 to 64 years - High school graduate or higher: 0.00906245246992,1.39419757755e-05
+Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00859945913883,1.20313724749e-05
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.00837063768225,1.31649979998e-06
+Total; Estimate; All households - With Supplemental Security Income (SSI): 0.00833635049334,2.75748765962e-06
+Percent Females; Estimate; Black alone - High school graduate or higher: 0.00817915227599,8.62449602713e-06
+Males; Margin of Error; Hispanic or Latino Origin: 0.00808742737713,2.35467005404e-06
+Percent Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.007827628913,3.01370810348e-05
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.00741913916845,8.24002924961e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00731253598222,2.35150935147e-06
+Total; Estimate; All households - With Social Security income: 0.00723430679562,1.576470931e-05
+Percent Males; Estimate; Black alone - Bachelor's degree or higher: 0.00687660922717,1.63701935998e-05
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.00683571954977,2.89132839526e-06
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00674123428205,9.66786849766e-06
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00672852619104,4.05543497755e-06
+Females; Margin of Error; Population 18 to 24 years: 0.00670178969828,4.49539172208e-06
+Percent; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.00661626827626,1.16855617964e-05
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00659703046933,4.36703295981e-06
+Percent Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00658057407917,5.40595197855e-06
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.00657115903343,1.10951001787e-05
+Percent Females; Margin of Error; Two or more races - High school graduate or higher: 0.00650043057194,2.38813716287e-06
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00646039735229,1.83600930528e-05
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0063322431083,5.76036499271e-06
+Mean income (dollars); Margin of Error; All households - With Social Security income: 0.00610387229342,5.22176714861e-06
+Males; Margin of Error; Population 65 years and over - High school graduate or higher: 0.00601184918544,2.81586627151e-05
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00581427157992,3.32219377762e-06
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00577204617911,1.87763023466e-06
+Total; Margin of Error; All households - With Supplemental Security Income (SSI): 0.00569136409024,2.82252926522e-05
+Percent Females; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.00568096168448,9.10505477639e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.00560545330026,2.14327636536e-05
+Percent Males; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.00547799079207,4.49426940911e-06
+Percent Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00534231286519,3.78895118312e-05
+Percent Females; Margin of Error; Population 25 years and over - Less than 9th grade: 0.00516204233988,7.53578475449e-06
+Percent Females; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00511536831412,4.16578301278e-06
+Percent Males; Estimate; Population 25 years and over - Bachelor's degree: 0.00506444992631,6.44689509226e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.00505446415943,1.74997854234e-06
+Mean income (dollars); Margin of Error; All households - With retirement income: 0.00493597722762,8.12420685466e-07
+Percent Females; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.00472339768982,1.78545976319e-05
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.00467947039861,1.73972669679e-06
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.00460784867573,4.06746478735e-06
+Percent Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.00455416656426,2.13001266141e-05
+Percent Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.00452714150775,3.46659464626e-06
+Females; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.00448529048783,2.08123707403e-05
+Percent Females; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.00443354413684,9.03681948244e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00435035727225,1.43787091565e-06
+Mean income (dollars); Estimate; All households - With earnings: 0.00431732826414,2.23175814605e-05
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.0041404113615,2.11566040276e-06
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.00405154794,1.59982237625e-05
+Percent Males; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.00405130666467,2.55665479167e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.00395594875294,1.65187142516e-06
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.00390972358919,1.47585534763e-06
+Males; Margin of Error; Two or more races - High school graduate or higher: 0.0037915645139,1.28588911446e-05
+Margin of Error; Total: - Two or more races: - Two races including Some other race: 0.00373573070127,2.68178682907e-06
+Percent Females; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.00371546642299,7.63927252133e-06
+Percent Females; Margin of Error; Black alone - Bachelor's degree or higher: 0.00370972206587,4.02266242413e-06
+Percent; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.00366771798254,6.32504495575e-06
+Percent; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.00346568969795,2.98811245662e-06
+Mean income (dollars); Estimate; All households - With interest, dividends, or net rental income: 0.00345081262817,1.29767014404e-06
+Percent; Margin of Error; Population 25 years and over - Less than 9th grade: 0.00343998637212,1.4011686947e-05
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.00328843232186,1.24688275925e-06
+Females; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.00326050307175,7.52233737065e-06
+Percent Females; Margin of Error; Population 25 years and over - Associate's degree: 0.00316790496493,6.09124739132e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.00313875541877,2.13243170384e-06
+Percent Females; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00313067487357,1.27138300773e-05
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.00312274193742,1.8889856058e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.00300272507382,4.38196953935e-06
+Percent; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00299703688047,9.67896516723e-06
+Total; Margin of Error; All households - With retirement income: 0.00298067968119,3.90027493469e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.00295772005821,6.27688127401e-06
+Percent Males; Estimate; Some other race alone - High school graduate or higher: 0.00286101349824,1.35736882237e-05
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.00284504485272,1.65305020036e-06
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.00276696788118,2.85922638939e-06
+Percent Males; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.00270232770805,8.80198152871e-06
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.00265127652729,2.24075159509e-06
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.00257051788075,1.20082610784e-05
+Percent Males; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00254731237151,4.26514627087e-06
+Percent Males; Estimate; Population 25 years and over - Associate's degree: 0.00252615331915,1.33604400253e-06
+Percent Females; Estimate; Some other race alone - High school graduate or higher: 0.00247703760556,6.14670190687e-06
+Total; Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.00245140890092,5.24002692054e-06
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00235435893173,4.15770858123e-06
+Percent; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.00231222011661,1.1168467837e-05
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0023014434989,5.37183011715e-06
+Total; Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.0022775137225,4.46162756065e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.00222813169838,7.02553132791e-06
+Females; Margin of Error; American Indian or Alaska Native alone: 0.0021381513683,8.36017557776e-06
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0020710345246,5.19327459782e-06
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00206380099517,5.89694041979e-06
+Percent Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0020555366886,5.16815022448e-06
+Percent Males; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.00196335198821,8.22723324285e-06
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.00186591398983,3.06489788202e-06
+Percent Males; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00186472075456,1.87197776895e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0018352805003,6.91429274516e-06
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0018246077064,5.58203927492e-06
+Total; Margin of Error; Hispanic or Latino Origin: 0.00182309445952,2.97918993309e-06
+Percent Males; Margin of Error; Population 25 years and over - Less than 9th grade: 0.00180736361716,9.96717614739e-06
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.00177645198534,4.30379699677e-06
+Percent; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.00177489673998,5.79213181853e-06
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00175060141078,7.04179261233e-06
+Females; Margin of Error; White alone, not Hispanic or Latino: 0.00170544096911,2.28561773586e-06
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.00165494185852,1.02355470326e-05
+Percent Females; Margin of Error; Asian alone - High school graduate or higher: 0.00162682020435,1.15145757991e-06
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00156195967519,4.4359426745e-06
+Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00155575820501,2.45131598892e-06
+Percent Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.00155335728199,1.89578228213e-06
+Females; Estimate; Black alone - High school graduate or higher: 0.00154010068768,2.12553801061e-06
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.00145433151545,1.55627929146e-06
+Percent Males; Estimate; Two or more races - Bachelor's degree or higher: 0.00139628595566,1.37842699524e-06
+Percent Males; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.00137953023593,1.77190073869e-06
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.00137386095219,4.79478054522e-06
+Percent Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00135708405216,6.75476388563e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.00131798851754,7.3528686547e-07
+Percent; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00131668233786,4.27274147562e-06
+Percent Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.00130791696351,3.39062232462e-06
+Females; Margin of Error; Population 25 to 34 years: 0.001299943852,8.04452870912e-07
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0012716769915,1.55136452335e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.00127033944332,1.58918051721e-06
+Percent Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.00125739034472,5.37440454492e-06
+Mean income (dollars); Estimate; All households - With retirement income: 0.00123922035966,8.77102704719e-07
+Margin of Error; Total: - Black or African American alone: 0.00122162795291,2.04184333023e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.00120310859487,1.08769442676e-05
+Total; Margin of Error; Population 65 years and over: 0.00119801065766,1.49003936093e-06
+Total; Margin of Error; White alone, not Hispanic or Latino_data_./data/income.csv: 0.00118675265567,1.08669001675e-06
+Percent; Margin of Error; Black alone - Bachelor's degree or higher: 0.00117446821365,3.02827050803e-06
+Percent Females; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.00117396591678,3.11711453975e-06
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00115506315049,4.35462216479e-06
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.00115309612611,2.41898019845e-06
+Percent Males; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.00113285663111,1.95543734557e-06
+Percent Males; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.00112602053009,1.22705123434e-06
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.00110805726861,8.3896359469e-07
+Females; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.00110739243854,4.22508576308e-06
+Percent Males; Estimate; Population 65 years and over - High school graduate or higher: 0.00109034802297,1.61806408723e-06
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.00107130161786,2.66918487607e-06
+Percent Females; Estimate; Two or more races - High school graduate or higher: 0.00106176465785,2.12219863363e-06
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.000984194184643,1.93180968601e-06
+Percent Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.000979349606429,3.62155627961e-06
+Percent Males; Margin of Error; Some other race alone - High school graduate or higher: 0.000977427949223,3.94381220973e-06
+Percent Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.00097238939517,9.07220739405e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.00095556530159,8.3592524386e-07
+Total; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.000955119152781,4.45285992427e-06
+Females; Margin of Error; Population 25 years and over: 0.000952945750883,3.24586495235e-06
+Percent Males; Margin of Error; Population 65 years and over - High school graduate or higher: 0.00089581416855,1.718653998e-06
+Percent Females; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.00088787575846,2.21457602954e-06
+Margin of Error; Total: - American Indian and Alaska Native alone: 0.000885809840928,1.11082220187e-06
+Mean income (dollars); Margin of Error; White alone, not Hispanic or Latino: 0.000883301249893,2.81240709286e-06
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.000814841246127,5.71877661928e-07
+Percent Males; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.000791741249146,1.68368041045e-06
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.000780301895571,2.21353981884e-06
+Total; Margin of Error; White alone, not Hispanic or Latino_data_./data/education.csv: 0.000763410563922,1.34116188591e-06
+Females; Margin of Error; Population 65 years and over: 0.000758957528427,7.76312988605e-07
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.000755275221757,8.74414080727e-07
+Percent; Margin of Error; Population 25 years and over - Bachelor's degree: 0.000750387371737,3.90426597415e-06
+Percent; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.000733875239375,2.54977080442e-06
+Percent; Estimate; Some other race alone - High school graduate or higher: 0.000697914608438,3.4240373514e-06
+Percent Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.000691371644813,5.44617650026e-07
+Margin of Error; Total:: 0.000690727003241,4.56727453588e-07
+Percent; Estimate; Population 25 years and over - Associate's degree: 0.000688245685948,8.56286949444e-07
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.000687750149754,9.6001057867e-07
+Mean income (dollars); Estimate; All households - With Supplemental Security Income (SSI): 0.000673726040896,1.27600257643e-06
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.000673344922212,1.73488064668e-06
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.000673020924212,1.67908307329e-06
+Total; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.000635047003493,9.91946356856e-07
+Total; Margin of Error; Population 45 to 64 years: 0.000632170528749,7.33759165789e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.000616577480971,6.54778031379e-07
+Mean income (dollars); Estimate; All households - With cash public assistance income: 0.000612208391747,5.09372452465e-07
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.000607726580942,7.21782972833e-07
+Percent Females; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.000594286866205,1.52006738074e-06
+Females; Margin of Error; Population 65 years and over - High school graduate or higher: 0.000568728082903,9.89944240183e-07
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.000561976314543,5.37406806818e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.000554269870612,2.20299398488e-07
+Percent Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.000554037652042,1.0418442434e-06
+Males; Margin of Error; Population 25 to 34 years: 0.000551751810962,7.40225448308e-07
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.000546027110703,5.54311639984e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.000544939005746,1.07767802012e-06
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.000526145258561,2.8957614982e-06
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.000525900152049,6.11694514412e-07
+Percent Females; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.000510096716379,5.77798524568e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.000509025283228,5.82491597619e-07
+Males; Margin of Error; Population 65 years and over: 0.000494997110749,4.30825453274e-07
+Mean income (dollars); Margin of Error; Hispanic or Latino origin (of any race): 0.000493927148246,3.5145589272e-07
+Females; Margin of Error; Population 25 years and over - Bachelor's degree: 0.000477086110717,9.46547724384e-07
+Percent Females; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.000455791469647,7.05008183513e-07
+Mean income (dollars); Estimate; Hispanic or Latino origin (of any race): 0.000426596897075,5.11192091201e-07
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.000419913299849,5.064147244e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.000399866976706,7.28511763705e-07
+Percent Males; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.000396240146686,5.58712523599e-07
+Females; Margin of Error; Some other race alone: 0.000389163295176,1.19758228132e-06
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.000380930683783,7.46141556673e-07
+Percent; Estimate; Black alone - Bachelor's degree or higher: 0.000379417714965,1.24220222538e-06
+Percent; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.000373018845361,7.91963327881e-07
+Margin of Error; Total: - Native Hawaiian and Other Pacific Islander alone: 0.000367449686716,5.80153325564e-07
+Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.000361020878106,5.06013136548e-07
+Total; Margin of Error; Population 25 years and over: 0.000335402613806,2.95510232496e-07
+Percent Males; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.000329360098633,8.07493061111e-07
+Males; Margin of Error; Asian alone - High school graduate or higher: 0.000320002884577,3.69119569639e-07
+Females; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.000313192148001,8.6868871149e-07
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.000311521702381,4.36433879769e-07
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.000295570393239,4.42389683613e-07
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.000292870014987,1.88199166446e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.000276573659046,2.43181598858e-07
+Percent Females; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.000273481074224,8.65950604651e-07
+Total; Margin of Error; Population 25 years and over - Some college, no degree: 0.000261270715682,7.91028397737e-07
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.000253106498705,3.33062110496e-07
+Mean income (dollars); Margin of Error; All households - With cash public assistance income: 0.000241418459292,1.72516919396e-07
+Percent Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.000241347765386,4.96961952574e-07
+Percent Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.00020925402214,5.17107754004e-07
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.000198772586276,2.4099365636e-07
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.000188470324526,5.08178851922e-07
+Percent Males; Margin of Error; Black alone - High school graduate or higher: 0.000187938615067,2.34105529872e-07
+Mean income (dollars); Margin of Error; All households - With interest, dividends, or net rental income: 0.000184343962151,2.49616038224e-07
+Males; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.000174669796156,3.52405427068e-07
+Males; Margin of Error; Population 45 to 64 years: 0.000170239225868,3.49327834917e-07
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.000162216370736,9.99416948032e-08
+Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.000156736336212,7.94309690548e-07
+Males; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.000148256360946,3.03643797059e-07
+Percent; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.000148059098926,1.0488689121e-07
+Percent Females; Estimate; Population 25 years and over - Some college, no degree: 0.000147762116296,2.16029455382e-07
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.000147320482068,9.89444000202e-08
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.000147117355926,9.80764089115e-08
+Mean income (dollars); Margin of Error; All households - With Supplemental Security Income (SSI): 0.000140013777505,1.52922822319e-07
+Percent Females; Estimate; Population 25 to 34 years - High school graduate or higher: 0.000130962566704,9.73511940853e-08
+Females; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.000121342742773,2.27430608945e-07
+Percent Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.000106791595169,1.20440801898e-07
+Percent; Margin of Error; Population 65 years and over - High school graduate or higher: 0.000102666806617,8.94314651863e-08
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.000102246328363,6.16959717206e-08
+Percent; Estimate; Population 45 to 64 years - High school graduate or higher: 0.000101531090116,1.28679036146e-07
+Percent Females; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 9.68669870776e-05,1.08399957845e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 9.67939532549e-05,1.46104948779e-07
+Males; Margin of Error; Population 25 years and over - Some college, no degree: 9.16419397056e-05,1.09715902292e-07
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 8.74693458422e-05,3.13033509707e-07
+Males; Margin of Error; Population 18 to 24 years: 8.70497461673e-05,6.77191644727e-08
+Total; Estimate; PERCENT ALLOCATED - Individual income in the past 12 months: 8.59779418529e-05,5.52741054626e-08
+Percent; Margin of Error; Population 25 years and over - Associate's degree: 8.55733315575e-05,1.20893647693e-07
+Percent Females; Margin of Error; Two or more races - Bachelor's degree or higher: 8.15857370497e-05,8.28089563758e-08
+Percent; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 7.82866086544e-05,6.13578531452e-08
+Percent; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 7.54398575392e-05,2.81057163339e-07
+Percent Males; Estimate; Black alone - High school graduate or higher: 6.58762499049e-05,1.0461490335e-07
+Percent; Margin of Error; Population 35 to 44 years - High school graduate or higher: 6.57670154901e-05,1.26041972671e-07
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 6.14968609996e-05,4.38097857027e-08
+Females; Estimate; Black alone - Bachelor's degree or higher: 6.12863930819e-05,1.21444710589e-07
+Percent Males; Estimate; Two or more races - High school graduate or higher: 6.07686638794e-05,7.6141681133e-08
+Females; Margin of Error; Hispanic or Latino Origin: 6.04388668713e-05,3.0483705915e-08
+Females; Margin of Error; Asian alone - Bachelor's degree or higher: 5.80747170268e-05,6.76537819806e-08
+Total; Margin of Error; Hispanic or Latino origin (of any race): 5.58353978924e-05,9.72369164095e-09
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 5.54641726687e-05,5.05589331991e-08
+Percent Females; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 4.80030081535e-05,5.3297441682e-08
+Percent Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 4.69368802864e-05,5.00156002081e-08
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 4.54272803256e-05,2.04300141981e-07
+Percent Males; Margin of Error; Population 35 to 44 years - High school graduate or higher: 4.18758083269e-05,2.90175349117e-08
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 4.14292023268e-05,1.60438611378e-08
+Percent Males; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 4.09562839848e-05,5.34045841703e-08
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 3.8869912581e-05,3.85695668543e-08
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 3.82159436634e-05,2.50259420896e-08
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 3.75744388457e-05,1.39772007003e-07
+Males; Estimate; Black alone - High school graduate or higher: 3.59481703915e-05,3.14616673998e-08
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 3.57574584816e-05,3.77723542636e-08
+Percent Females; Margin of Error; Population 65 years and over - High school graduate or higher: 3.50584010117e-05,2.45813284304e-08
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 3.46851418125e-05,4.99633684369e-08
+Estimate; Total: - Some other race alone: 3.36342644622e-05,1.24367614387e-08
+Percent Females; Margin of Error; Black alone - High school graduate or higher: 3.07233906154e-05,1.92821871468e-08
+Females; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 2.86894532156e-05,1.55994760115e-08
+Total; Margin of Error; Some other race alone - Bachelor's degree or higher: 2.76124022203e-05,3.7823632084e-08
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 2.58385360008e-05,1.07708064576e-08
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 2.41327680162e-05,5.76566587204e-08
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 2.05876661986e-05,4.19613479508e-08
+Percent Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 2.00450279477e-05,1.18174223381e-08
+Females; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 1.92913195331e-05,8.57816962652e-09
+Percent; Margin of Error; Population 25 to 34 years - High school graduate or higher: 1.90161526154e-05,6.97062941569e-09
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 1.77427578229e-05,1.44035808693e-08
+Total; Margin of Error; All households - With interest, dividends, or net rental income: 1.59659696794e-05,8.01588192545e-09
+Total; Estimate; Black alone - High school graduate or higher: 1.45669372392e-05,1.0397587366e-08
+Females; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 1.38354907286e-05,9.395568238e-09
+Males; Estimate; Some other race alone - High school graduate or higher: 1.36205766395e-05,9.53235787167e-09
+Females; Margin of Error; Two or more races: 1.332861654e-05,1.75875498682e-08
+Males; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 1.33230058816e-05,1.11852308984e-08
+Percent; Margin of Error; Percent bachelor's degree or higher: 1.27941959232e-05,1.62054534828e-08
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 1.24378335063e-05,6.81569046814e-09
+Percent Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 1.12253341319e-05,1.2474804511e-08
+Males; Margin of Error; Black alone: 1.06312344693e-05,3.7647005849e-09
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 9.10495444371e-06,1.6198705517e-09
+Females; Estimate; Some other race alone - High school graduate or higher: 8.61609187347e-06,2.69630069649e-09
+Percent Males; Margin of Error; Asian alone - High school graduate or higher: 7.49815124471e-06,2.86474544727e-09
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 6.77009290364e-06,4.20487460642e-09
+Percent; Margin of Error; Black alone - High school graduate or higher: 5.81960884098e-06,1.81289526911e-09
+Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 5.44477000062e-06,1.23706054608e-09
+Males; Margin of Error; Population 35 to 44 years: 4.18286400363e-06,5.65715357821e-10
+Percent Males; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 4.12222408135e-06,1.68228040631e-09
+Total; Estimate; Some other race alone - High school graduate or higher: 2.91830049388e-06,8.43131299483e-10
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 1.62666543118e-06,2.61958002076e-10
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 1.48701618728e-06,1.14364270867e-10
+Percent Females; Margin of Error; Population 25 years and over - Some college, no degree: 8.36995907813e-07,6.93556528199e-11
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 7.28482981015e-07,5.25380579092e-11
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 6.08559325857e-07,3.66641008557e-11
+Percent Females; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 3.90512210329e-07,1.50974788552e-11
+Total; Estimate; Population 18 to 24 years: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Males; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Males; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Males; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Females; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Females; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Females; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Percent Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 25 years and over: 0.0,0.0
+Percent; Estimate; Population 25 years and over: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over: 0.0,0.0
+Males; Estimate; Population 25 years and over: 0.0,0.0
+Males; Margin of Error; Population 25 years and over: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over: 0.0,0.0
+Females; Estimate; Population 25 years and over: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over: 0.0,0.0
+Total; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Females; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Total; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Percent; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Females; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - Some college, no degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over - Some college, no degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Some college, no degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Total; Estimate; Percent high school graduate or higher: 0.0,0.0
+Total; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Males; Estimate; Percent high school graduate or higher: 0.0,0.0
+Males; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Females; Estimate; Percent high school graduate or higher: 0.0,0.0
+Females; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Total; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 25 to 34 years: 0.0,0.0
+Total; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Percent; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Males; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Males; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Males; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Females; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Females; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Females; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Total; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 35 to 44 years: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Males; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Males; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Males; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Females; Estimate; Population 35 to 44 years: 0.0,0.0
+Females; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Percent Females; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Females; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Total; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Males; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Males; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Males; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Females; Estimate; Population 45 to 64 years: 0.0,0.0
+Females; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Percent Females; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Females; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Total; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 65 years and over: 0.0,0.0
+Percent; Estimate; Population 65 years and over: 0.0,0.0
+Percent; Margin of Error; Population 65 years and over: 0.0,0.0
+Males; Estimate; Population 65 years and over: 0.0,0.0
+Percent Males; Estimate; Population 65 years and over: 0.0,0.0
+Percent Males; Margin of Error; Population 65 years and over: 0.0,0.0
+Females; Estimate; Population 65 years and over: 0.0,0.0
+Percent Females; Estimate; Population 65 years and over: 0.0,0.0
+Percent Females; Margin of Error; Population 65 years and over: 0.0,0.0
+Total; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino_data_./data/education.csv: 0.0,0.0
+Percent; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Males; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Males; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Males; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Females; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Females; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Black alone: 0.0,0.0
+Total; Margin of Error; Black alone: 0.0,0.0
+Percent; Estimate; Black alone: 0.0,0.0
+Percent; Margin of Error; Black alone: 0.0,0.0
+Males; Estimate; Black alone: 0.0,0.0
+Percent Males; Estimate; Black alone: 0.0,0.0
+Percent Males; Margin of Error; Black alone: 0.0,0.0
+Females; Estimate; Black alone: 0.0,0.0
+Females; Margin of Error; Black alone: 0.0,0.0
+Percent Females; Estimate; Black alone: 0.0,0.0
+Percent Females; Margin of Error; Black alone: 0.0,0.0
+Total; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Black alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Total; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Males; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Males; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Percent Males; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Males; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Females; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Females; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Total; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Asian alone: 0.0,0.0
+Total; Margin of Error; Asian alone: 0.0,0.0
+Percent; Estimate; Asian alone: 0.0,0.0
+Percent; Margin of Error; Asian alone: 0.0,0.0
+Males; Estimate; Asian alone: 0.0,0.0
+Males; Margin of Error; Asian alone: 0.0,0.0
+Percent Males; Estimate; Asian alone: 0.0,0.0
+Percent Males; Margin of Error; Asian alone: 0.0,0.0
+Females; Estimate; Asian alone: 0.0,0.0
+Females; Margin of Error; Asian alone: 0.0,0.0
+Percent Females; Estimate; Asian alone: 0.0,0.0
+Percent Females; Margin of Error; Asian alone: 0.0,0.0
+Total; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Asian alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Asian alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Asian alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Some other race alone: 0.0,0.0
+Total; Margin of Error; Some other race alone: 0.0,0.0
+Percent; Estimate; Some other race alone: 0.0,0.0
+Percent; Margin of Error; Some other race alone: 0.0,0.0
+Males; Estimate; Some other race alone: 0.0,0.0
+Males; Margin of Error; Some other race alone: 0.0,0.0
+Percent Males; Estimate; Some other race alone: 0.0,0.0
+Percent Males; Margin of Error; Some other race alone: 0.0,0.0
+Females; Estimate; Some other race alone: 0.0,0.0
+Percent Females; Estimate; Some other race alone: 0.0,0.0
+Percent Females; Margin of Error; Some other race alone: 0.0,0.0
+Total; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Two or more races: 0.0,0.0
+Total; Margin of Error; Two or more races: 0.0,0.0
+Percent; Estimate; Two or more races: 0.0,0.0
+Percent; Margin of Error; Two or more races: 0.0,0.0
+Males; Estimate; Two or more races: 0.0,0.0
+Males; Margin of Error; Two or more races: 0.0,0.0
+Percent Males; Estimate; Two or more races: 0.0,0.0
+Percent Males; Margin of Error; Two or more races: 0.0,0.0
+Females; Estimate; Two or more races: 0.0,0.0
+Percent Females; Estimate; Two or more races: 0.0,0.0
+Percent Females; Margin of Error; Two or more races: 0.0,0.0
+Total; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Males; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Females; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Total; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Males; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Males; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Males; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Females; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Females; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Total; Estimate; All households: 0.0,0.0
+Total; Margin of Error; All households: 0.0,0.0
+Mean income (dollars); Estimate; All households: 0.0,0.0
+Mean income (dollars); Margin of Error; All households: 0.0,0.0
+Total; Margin of Error; All households - With earnings: 0.0,0.0
+Mean income (dollars); Margin of Error; All households - With earnings: 0.0,0.0
+Total; Margin of Error; All households - With Social Security income: 0.0,0.0
+Total; Margin of Error; All households - With cash public assistance income: 0.0,0.0
+Total; Estimate; All households - With retirement income: 0.0,0.0
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.0,0.0
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0,0.0
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0,0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0,0.0
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0,0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0,0.0
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.0,0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: 0.0,0.0
+Total; Estimate; Hispanic or Latino origin (of any race): 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Estimate; Total:: 0.0,0.0
+Estimate; Total: - White alone: 0.0,0.0
+Margin of Error; Total: - White alone: 0.0,0.0
+Estimate; Total: - Black or African American alone: 0.0,0.0
+Estimate; Total: - American Indian and Alaska Native alone: 0.0,0.0
+Estimate; Total: - Asian alone: 0.0,0.0
+Margin of Error; Total: - Asian alone: 0.0,0.0
+Estimate; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Margin of Error; Total: - Some other race alone: 0.0,0.0
+Estimate; Total: - Two or more races:: 0.0,0.0
+Margin of Error; Total: - Two or more races:: 0.0,0.0
+Estimate; Total: - Two or more races: - Two races including Some other race: 0.0,0.0
+Estimate; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0,0.0
+Margin of Error; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0,0.0
+Estimate; Total: 0.0,0.0
+Total; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0230830449758,1.80809365916e-05
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.0194801809396,1.5837863934e-05
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0154523811581,2.84615513731e-05
+Mean income (dollars); Estimate; All households - With Social Security income: 0.0133613205841,8.29714907597e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0131396943723,1.03676918665e-05
+Percent Females; Estimate; Black alone - High school graduate or higher: 0.0115688079651,1.02603108512e-05
+Percent; Margin of Error; Population 25 years and over - Bachelor's degree: 0.00983308453323,3.05957510859e-05
+Percent; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.00968660235282,9.60936544703e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.00877629556128,1.34341583871e-05
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.00877086892164,2.28474243232e-05
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.00783037185172,5.42116532455e-06
+Percent; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.00777416079975,1.90270832376e-05
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00754016861074,8.99117633801e-06
+Females; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.00724432320866,5.31723110031e-05
+Total; Estimate; All households - With earnings: 0.0070732993994,7.08603346525e-05
+Percent; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.00646470898111,8.98346078853e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.00642779977181,3.29458971778e-05
+Percent Females; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.00639198409472,1.56380256121e-05
+Total; Estimate; All households - With Social Security income: 0.00626560713732,1.52479806342e-05
+Percent; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.005936439778,5.03733488419e-06
+Percent Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.00585252273014,2.82944565049e-05
+Total; Margin of Error; Hispanic or Latino Origin: 0.00539581416408,1.03491417658e-05
+Percent Males; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.00510635602799,6.6877869023e-06
+Percent Males; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.00508609798186,1.66592925353e-05
+Total; Estimate; White alone, not Hispanic or Latino_data_./data/income.csv: 0.00487949293273,5.75839402616e-06
+Males; Margin of Error; White alone, not Hispanic or Latino: 0.00460509573603,4.02851962202e-06
+Percent Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00444081477453,1.39750031418e-05
+Percent Females; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.00437198986372,1.38586143776e-05
+Males; Margin of Error; Population 45 to 64 years: 0.00427553716287,1.16435466411e-05
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0038703317388,2.56714321326e-05
+Percent Females; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.00378811973428,7.12703981286e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.00335811717421,1.89338864614e-06
+Percent Males; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.00314851812864,3.69493257662e-06
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00305324984015,9.10951010734e-06
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.00293840918021,9.32251518518e-07
+Percent; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.00293763128928,8.77608996641e-06
+Total; Margin of Error; Population 25 years and over: 0.00292049094079,3.07061277504e-06
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0028566924712,1.42332658941e-05
+Percent Females; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.00285299697128,8.83003742667e-06
+Percent Females; Margin of Error; Population 25 years and over - Associate's degree: 0.00285209746205,1.34730114081e-05
+Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.00280551850329,3.68866280017e-06
+Percent Females; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0027942752325,6.70272703383e-06
+Percent; Estimate; Population 25 years and over - Some college, no degree: 0.00276652779982,1.08845928317e-05
+Total; Margin of Error; All households - With interest, dividends, or net rental income: 0.00268605143441,7.16780183126e-06
+Percent Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00264374199695,2.49353438179e-06
+Percent Males; Margin of Error; Population 25 years and over - Bachelor's degree: 0.00258803697732,1.79473197023e-05
+Percent Females; Margin of Error; Two or more races - High school graduate or higher: 0.00250455977024,3.04664153139e-06
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.00248083556821,3.1422347498e-06
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.00238938986617,3.69703729102e-06
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.00233186859289,3.84606629773e-06
+Percent; Estimate; Black alone - Bachelor's degree or higher: 0.00232824980366,8.99790762919e-06
+Percent Males; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.00229040680871,3.93864070773e-06
+Females; Margin of Error; Population 65 years and over: 0.00224397239709,1.75792591728e-06
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.00213768980456,5.2064316808e-06
+Total; Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.00206207381081,1.87101108236e-06
+Percent Males; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.00205351045935,1.00691497535e-05
+Mean income (dollars); Estimate; All households - With interest, dividends, or net rental income: 0.00201502948155,2.34399898066e-06
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.00198320148367,1.18924691455e-05
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.00195083480831,4.25371729887e-06
+Percent Females; Estimate; Population 25 years and over - Some college, no degree: 0.00192931753245,5.12727511684e-06
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.00180932669314,4.41625966348e-06
+Percent Males; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.00177413062898,2.13097415099e-06
+Percent; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.00176272918618,1.00963507462e-05
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0017342410139,3.48378819886e-06
+Mean income (dollars); Margin of Error; All households - With Social Security income: 0.00165128523013,4.70338889723e-06
+Percent Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.00164508659633,2.53481518465e-06
+Males; Margin of Error; Hispanic or Latino Origin: 0.00161382337597,3.7703691639e-06
+Percent Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0015737387838,1.50086522346e-06
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.00154465563323,9.72473747943e-06
+Mean income (dollars); Estimate; All households - With earnings: 0.00149296309779,7.7551238117e-06
+Margin of Error; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0013179411864,8.99378762979e-07
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.00118354201449,1.94257461888e-06
+Males; Margin of Error; Population 25 years and over: 0.00107219683773,1.53417398585e-06
+Total; Margin of Error; All households - With cash public assistance income: 0.00103334546261,2.1534136437e-06
+Percent; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.00102749008832,2.43392865996e-06
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 1 worker: 0.000972558587348,2.80720587494e-06
+Percent Females; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.000930180733858,1.95082968952e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.000877742579986,8.0083932607e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.000767849068727,1.16851052239e-06
+Total; Margin of Error; All households - With retirement income: 0.000767076292726,1.57288469847e-06
+Percent Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.000731663348524,8.98605407252e-07
+Total; Margin of Error; Population 65 years and over: 0.000724107997331,9.77402452219e-07
+Percent Males; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.000687355804226,1.67818855732e-06
+Percent; Margin of Error; Percent bachelor's degree or higher: 0.000683872519358,4.97097979746e-06
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.00065932297004,1.95979033192e-06
+Percent Females; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.000565139487634,6.99672158442e-07
+Percent Males; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.000497036635429,7.60586887466e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.000493882678805,3.48487873794e-07
+Percent Males; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.000493245066818,5.3810870559e-07
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.000478109213917,5.74853284693e-07
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.000472361832269,1.06661532577e-06
+Percent Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.000446874753169,8.70919326018e-07
+Percent Females; Estimate; Black alone - Bachelor's degree or higher: 0.000398434729378,5.75578932117e-07
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.000396138319671,1.37195954802e-06
+Percent Males; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.00034185703651,6.28442875042e-07
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.000339655137485,7.53546413965e-07
+Percent Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.000324436729434,1.00912549105e-06
+Percent; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.000320849951454,5.52203413917e-07
+Total; Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.000308508324438,3.51676343239e-07
+Percent; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.000305463591672,3.58039380853e-07
+Total; Margin of Error; Hispanic or Latino origin (of any race): 0.000288752861195,1.26932644712e-07
+Percent; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.00026394621584,5.57746249063e-07
+Percent Males; Margin of Error; Percent bachelor's degree or higher: 0.000248521383384,4.81674419777e-07
+Percent Males; Estimate; Black alone - Bachelor's degree or higher: 0.000247221893511,3.35471243392e-07
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.000227210134586,4.88420935096e-07
+Percent; Margin of Error; Population 65 years and over - High school graduate or higher: 0.000222708156524,6.45396366267e-07
+Percent Males; Margin of Error; Population 25 years and over - Some college, no degree: 0.000213890767972,4.44030772128e-07
+Percent Males; Estimate; Population 25 years and over - Some college, no degree: 0.000200614349144,3.33997607867e-07
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.000198005534861,1.47701650964e-07
+Percent Males; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.000195658376567,2.84909767125e-07
+Males; Margin of Error; Black alone: 0.000189731675244,3.52121693299e-07
+Percent Females; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.000174051930701,1.69432097293e-07
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.000171992527993,1.40349284266e-07
+Percent Males; Margin of Error; Asian alone - Bachelor's degree or higher: 0.000161846855529,1.06803543973e-06
+Percent Females; Margin of Error; Population 25 years and over - Less than 9th grade: 0.000158494612319,2.03157233628e-07
+Percent Males; Estimate; Population 65 years and over - High school graduate or higher: 0.000147747062417,3.9841814097e-07
+Percent Males; Estimate; Asian alone - Bachelor's degree or higher: 0.000135917602537,1.29873958507e-07
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.000135187906244,4.20691906929e-07
+Percent; Margin of Error; Asian alone - High school graduate or higher: 0.000132371195324,6.53084349451e-08
+Percent Females; Margin of Error; Asian alone - High school graduate or higher: 0.000125990636512,1.41574057984e-07
+Total; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.000120853903907,2.09595726212e-07
+Percent Males; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.000107981567589,1.10650932994e-07
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.000103524010526,6.28705224354e-08
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 0.000100454854741,1.27978916177e-07
+Percent Males; Margin of Error; Black alone - High school graduate or higher: 9.54291843174e-05,7.13007123447e-08
+Percent; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 9.3472211008e-05,1.24736966699e-07
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 9.02619238116e-05,7.26433740879e-08
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 7.53185855363e-05,5.3546412128e-08
+Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 4.88748283689e-05,5.03750372278e-08
+Percent Females; Estimate; Population 18 to 24 years - Less than high school graduate: 4.46579801585e-05,3.45837271207e-08
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: 4.1873596228e-05,1.70877927868e-08
+Total; Margin of Error; All households - With Supplemental Security Income (SSI): 4.0831904396e-05,2.71477071149e-08
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 3.39043201222e-05,1.93981423061e-08
+Margin of Error; Total: - American Indian and Alaska Native alone: 2.61676297278e-05,2.27996221131e-08
+Total; Margin of Error; Population 25 to 34 years: 2.13891765603e-05,2.21483031589e-08
+Total; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 2.06002646592e-05,2.40453847034e-08
+Percent Males; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 1.61601010973e-05,2.00581032348e-08
+Percent Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 1.47549274405e-05,8.85043070326e-09
+Percent; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 1.41460970671e-05,1.02125240823e-08
+Mean income (dollars); Margin of Error; All households - With interest, dividends, or net rental income: 1.12506814087e-05,2.19689091323e-09
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 8.99627549225e-06,4.81706403646e-07
+Percent Males; Estimate; Two or more races - Bachelor's degree or higher: 5.85946711199e-06,2.03806811368e-09
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 5.83750174562e-06,1.76893536462e-09
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 1.75584869703e-06,1.69069853659e-10
+Percent Females; Estimate; Population 25 to 34 years - High school graduate or higher: 1.47866423783e-06,8.33303254746e-11
+Percent; Margin of Error; Black alone - High school graduate or higher: 3.30689103173e-07,3.53582081562e-12
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 1.43031699268e-07,2.02534863255e-12
+Margin of Error; Total:: 1.17073578413e-07,1.35691605349e-12
+Total; Estimate; Population 18 to 24 years: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Males; Estimate; Population 18 to 24 years: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Percent Males; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Males; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Females; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Females; Estimate; Population 18 to 24 years: 0.0,0.0
+Percent Females; Margin of Error; Population 18 to 24 years: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Females; Estimate; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - Less than high school graduate: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Margin of Error; Population 18 to 24 years - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Females; Estimate; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Percent Females; Margin of Error; Population 18 to 24 years - Some college or associate's degree: 0.0,0.0
+Total; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Population 18 to 24 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 25 years and over: 0.0,0.0
+Percent; Estimate; Population 25 years and over: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over: 0.0,0.0
+Males; Estimate; Population 25 years and over: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over: 0.0,0.0
+Females; Estimate; Population 25 years and over: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over: 0.0,0.0
+Total; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Females; Estimate; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Less than 9th grade: 0.0,0.0
+Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Males; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over - 9th to 12th grade, no diploma: 0.0,0.0
+Total; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Percent; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Females; Margin of Error; Population 25 years and over - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Some college, no degree: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over - Some college, no degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Associate's degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Associate's degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Females; Estimate; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Percent Females; Margin of Error; Population 25 years and over - Bachelor's degree: 0.0,0.0
+Total; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Total; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Males; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent Males; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Percent Males; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Females; Estimate; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Females; Margin of Error; Population 25 years and over - Graduate or professional degree: 0.0,0.0
+Total; Estimate; Percent high school graduate or higher: 0.0,0.0
+Total; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Males; Estimate; Percent high school graduate or higher: 0.0,0.0
+Males; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Females; Estimate; Percent high school graduate or higher: 0.0,0.0
+Females; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Percent high school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Percent high school graduate or higher: 0.0,0.0
+Total; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Percent bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Percent bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Males; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Males; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Males; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Females; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Females; Estimate; Population 25 to 34 years: 0.0,0.0
+Percent Females; Margin of Error; Population 25 to 34 years: 0.0,0.0
+Total; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Population 25 to 34 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 35 to 44 years: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Males; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Males; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Males; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Females; Estimate; Population 35 to 44 years: 0.0,0.0
+Females; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Percent Females; Estimate; Population 35 to 44 years: 0.0,0.0
+Percent Females; Margin of Error; Population 35 to 44 years: 0.0,0.0
+Total; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Population 35 to 44 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 35 to 44 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 45 to 64 years: 0.0,0.0
+Total; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Percent; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Males; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Males; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Males; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Females; Estimate; Population 45 to 64 years: 0.0,0.0
+Females; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Percent Females; Estimate; Population 45 to 64 years: 0.0,0.0
+Percent Females; Margin of Error; Population 45 to 64 years: 0.0,0.0
+Total; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 45 to 64 years - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 45 to 64 years - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Population 65 years and over: 0.0,0.0
+Percent; Estimate; Population 65 years and over: 0.0,0.0
+Percent; Margin of Error; Population 65 years and over: 0.0,0.0
+Males; Estimate; Population 65 years and over: 0.0,0.0
+Percent Males; Estimate; Population 65 years and over: 0.0,0.0
+Percent Males; Margin of Error; Population 65 years and over: 0.0,0.0
+Females; Estimate; Population 65 years and over: 0.0,0.0
+Percent Females; Estimate; Population 65 years and over: 0.0,0.0
+Percent Females; Margin of Error; Population 65 years and over: 0.0,0.0
+Total; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Males; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Females; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Population 65 years and over - High school graduate or higher: 0.0,0.0
+Total; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Population 65 years and over - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino_data_./data/education.csv: 0.0,0.0
+Total; Margin of Error; White alone, not Hispanic or Latino_data_./data/education.csv: 0.0,0.0
+Percent; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Males; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Males; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Females; Estimate; White alone, not Hispanic or Latino: 0.0,0.0
+Percent Females; Margin of Error; White alone, not Hispanic or Latino: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: 0.0,0.0
+Total; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; White alone, not Hispanic or Latino - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Black alone: 0.0,0.0
+Total; Margin of Error; Black alone: 0.0,0.0
+Percent; Estimate; Black alone: 0.0,0.0
+Percent; Margin of Error; Black alone: 0.0,0.0
+Males; Estimate; Black alone: 0.0,0.0
+Percent Males; Estimate; Black alone: 0.0,0.0
+Percent Males; Margin of Error; Black alone: 0.0,0.0
+Females; Margin of Error; Black alone: 0.0,0.0
+Percent Females; Estimate; Black alone: 0.0,0.0
+Percent Females; Margin of Error; Black alone: 0.0,0.0
+Total; Estimate; Black alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Black alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Black alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Black alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Black alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Black alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Black alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Total; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Males; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Males; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Males; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Females; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Females; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Percent Females; Estimate; American Indian or Alaska Native alone: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone: 0.0,0.0
+Total; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Asian alone: 0.0,0.0
+Total; Margin of Error; Asian alone: 0.0,0.0
+Percent; Estimate; Asian alone: 0.0,0.0
+Percent; Margin of Error; Asian alone: 0.0,0.0
+Males; Estimate; Asian alone: 0.0,0.0
+Males; Margin of Error; Asian alone: 0.0,0.0
+Percent Males; Estimate; Asian alone: 0.0,0.0
+Percent Males; Margin of Error; Asian alone: 0.0,0.0
+Females; Estimate; Asian alone: 0.0,0.0
+Females; Margin of Error; Asian alone: 0.0,0.0
+Percent Females; Estimate; Asian alone: 0.0,0.0
+Percent Females; Margin of Error; Asian alone: 0.0,0.0
+Total; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Asian alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Asian alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Asian alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Asian alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Total; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Some other race alone: 0.0,0.0
+Total; Margin of Error; Some other race alone: 0.0,0.0
+Percent; Estimate; Some other race alone: 0.0,0.0
+Percent; Margin of Error; Some other race alone: 0.0,0.0
+Males; Estimate; Some other race alone: 0.0,0.0
+Males; Margin of Error; Some other race alone: 0.0,0.0
+Percent Males; Estimate; Some other race alone: 0.0,0.0
+Percent Males; Margin of Error; Some other race alone: 0.0,0.0
+Females; Estimate; Some other race alone: 0.0,0.0
+Females; Margin of Error; Some other race alone: 0.0,0.0
+Percent Females; Estimate; Some other race alone: 0.0,0.0
+Percent Females; Margin of Error; Some other race alone: 0.0,0.0
+Total; Estimate; Some other race alone - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Males; Estimate; Some other race alone - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Females; Estimate; Some other race alone - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Percent Females; Margin of Error; Some other race alone - High school graduate or higher: 0.0,0.0
+Total; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Some other race alone - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Two or more races: 0.0,0.0
+Total; Margin of Error; Two or more races: 0.0,0.0
+Percent; Estimate; Two or more races: 0.0,0.0
+Percent; Margin of Error; Two or more races: 0.0,0.0
+Males; Estimate; Two or more races: 0.0,0.0
+Males; Margin of Error; Two or more races: 0.0,0.0
+Percent Males; Estimate; Two or more races: 0.0,0.0
+Percent Males; Margin of Error; Two or more races: 0.0,0.0
+Females; Estimate; Two or more races: 0.0,0.0
+Females; Margin of Error; Two or more races: 0.0,0.0
+Percent Females; Estimate; Two or more races: 0.0,0.0
+Percent Females; Margin of Error; Two or more races: 0.0,0.0
+Total; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Males; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Percent Males; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Females; Estimate; Two or more races - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Two or more races - High school graduate or higher: 0.0,0.0
+Total; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Estimate; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Percent Females; Margin of Error; Two or more races - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Males; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Males; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Males; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Females; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Percent Females; Estimate; Hispanic or Latino Origin: 0.0,0.0
+Percent Females; Margin of Error; Hispanic or Latino Origin: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Total; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Males; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Females; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Percent Females; Estimate; Hispanic or Latino Origin - High school graduate or higher: 0.0,0.0
+Total; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Percent; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: 0.0,0.0
+Total; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Total; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Males; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): 0.0,0.0
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: 0.0,0.0
+Percent; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Percent Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: 0.0,0.0
+Total; Estimate; All households: 0.0,0.0
+Total; Margin of Error; All households: 0.0,0.0
+Mean income (dollars); Estimate; All households: 0.0,0.0
+Mean income (dollars); Margin of Error; All households: 0.0,0.0
+Total; Margin of Error; All households - With earnings: 0.0,0.0
+Total; Margin of Error; All households - With Social Security income: 0.0,0.0
+Mean income (dollars); Margin of Error; All households - With Supplemental Security Income (SSI): 0.0,0.0
+Mean income (dollars); Estimate; All households - With retirement income: 0.0,0.0
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: 0.0,0.0
+Mean income (dollars); Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: 0.0,0.0
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: 0.0,0.0
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0,0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0,0.0
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population: 0.0,0.0
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0,0.0
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: 0.0,0.0
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: 0.0,0.0
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: 0.0,0.0
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: 0.0,0.0
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Household income in the past 12 months: 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Family income in the past 12 months: 0.0,0.0
+Total; Estimate; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Total; Margin of Error; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Mean income (dollars); Estimate; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Mean income (dollars); Margin of Error; PERCENT ALLOCATED - Individual income in the past 12 months: 0.0,0.0
+Estimate; Total:: 0.0,0.0
+Estimate; Total: - White alone: 0.0,0.0
+Margin of Error; Total: - White alone: 0.0,0.0
+Estimate; Total: - Black or African American alone: 0.0,0.0
+Estimate; Total: - American Indian and Alaska Native alone: 0.0,0.0
+Estimate; Total: - Asian alone: 0.0,0.0
+Margin of Error; Total: - Asian alone: 0.0,0.0
+Estimate; Total: - Native Hawaiian and Other Pacific Islander alone: 0.0,0.0
+Estimate; Total: - Some other race alone: 0.0,0.0
+Margin of Error; Total: - Some other race alone: 0.0,0.0
+Estimate; Total: - Two or more races:: 0.0,0.0
+Estimate; Total: - Two or more races: - Two races including Some other race: 0.0,0.0
+Estimate; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0,0.0
+Margin of Error; Total: - Two or more races: - Two races excluding Some other race, and three or more races: 0.0,0.0
+Estimate; Total: 0.0,0.0
+Males; Margin of Error; Population 65 years and over: -1.27334003499e-06,1.60518089627e-10
+Percent Males; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT - White alone - High school graduate or higher: -1.64749399457e-06,2.68709409753e-10
+Percent; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: -4.55504245385e-06,5.03865974739e-10
+Percent; Margin of Error; Black alone - Bachelor's degree or higher: -5.06689147175e-06,1.02338166944e-09
+Total; Margin of Error; Population 25 years and over - Some college, no degree: -5.24232564013e-06,1.34661692774e-09
+Males; Margin of Error; American Indian or Alaska Native alone: -5.61948248494e-06,1.16976439382e-09
+Percent; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: -5.71989397843e-06,1.19275614365e-09
+Mean income (dollars); Margin of Error; All households - With earnings: -6.65632431471e-06,2.77894796119e-09
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: -8.63424146496e-06,1.62774787732e-09
+Percent Females; Margin of Error; Hispanic or Latino Origin - High school graduate or higher: -1.10953147775e-05,3.81641509568e-09
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White: -1.4493400124e-05,1.02928737106e-08
+Percent Males; Estimate; Asian alone - High school graduate or higher: -1.59879952859e-05,5.55679377773e-09
+Total; Estimate; Hispanic or Latino origin (of any race): -1.69985995354e-05,5.35500547992e-09
+Percent Females; Margin of Error; Population 25 years and over - 9th to 12th grade, no diploma: -1.73195030832e-05,1.09070061839e-08
+Percent; Estimate; Some other race alone - High school graduate or higher: -1.75301329563e-05,8.73829089976e-09
+Percent Males; Margin of Error; Asian alone - High school graduate or higher: -1.94635492795e-05,7.60834100867e-09
+Percent; Estimate; Asian alone - High school graduate or higher: -2.01714614948e-05,1.00805957599e-08
+Males; Margin of Error; Asian alone - High school graduate or higher: -2.45530682005e-05,2.42802248562e-08
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: -2.9020338608e-05,2.7736099526e-08
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: -4.07398491871e-05,2.87973566972e-08
+Females; Margin of Error; Population 25 years and over - Some college, no degree: -4.13605789717e-05,4.10318563666e-08
+Total; Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: -4.69670801797e-05,1.41951893238e-07
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: -5.89339439116e-05,8.75911786416e-08
+Percent Males; Margin of Error; Some other race alone - Bachelor's degree or higher: -6.55760102365e-05,5.07838431959e-08
+Percent Males; Estimate; Population 35 to 44 years - Bachelor's degree or higher: -8.06710383618e-05,1.06701932902e-07
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, husband and wife worked: -8.97700705155e-05,4.03491884397e-08
+Percent Females; Estimate; Asian alone - Bachelor's degree or higher: -9.98631523323e-05,1.61762516214e-07
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - No workers: -0.000101974564118,1.65519113526e-07
+Percent Females; Estimate; Some other race alone - High school graduate or higher: -0.000107245422748,1.97206150884e-07
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: -0.000111928630253,1.47136634884e-07
+Females; Estimate; Black alone - High school graduate or higher: -0.000133695494572,1.79588964637e-07
+Females; Margin of Error; Population 45 to 64 years - High school graduate or higher: -0.00013659329196,1.59347417166e-07
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: -0.000143914543048,1.53552228968e-07
+Percent Males; Margin of Error; Population 25 years and over - Associate's degree: -0.00015577039258,3.26435961474e-07
+Males; Margin of Error; Population 25 years and over - Some college, no degree: -0.0001596867829,1.72847143185e-07
+Mean income (dollars); Margin of Error; White alone, not Hispanic or Latino: -0.000178279717981,1.60371916733e-07
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: -0.000187807059682,1.6483319378e-07
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: -0.000192709691905,4.15705329404e-07
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: -0.000210265306788,1.00874203727e-07
+Percent Males; Margin of Error; Two or more races - High school graduate or higher: -0.000230058696103,4.31892508182e-07
+Percent Males; Margin of Error; Population 18 to 24 years - Bachelor's degree or higher: -0.000230677817764,4.22910709662e-07
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): -0.00024780664231,3.87316761659e-07
+Percent Females; Margin of Error; Black alone - High school graduate or higher: -0.000271095078466,2.85232708777e-07
+Females; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: -0.000282305652718,6.74680230877e-07
+Percent Males; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: -0.000289885909532,8.29917325471e-07
+Percent Females; Estimate; Population 18 to 24 years - Some college or associate's degree: -0.00031436846948,2.35085454445e-07
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): -0.000318192431784,1.1951421663e-06
+Males; Margin of Error; American Indian or Alaska Native alone - High school graduate or higher: -0.000328827755797,1.22363661394e-06
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: -0.000331504061815,1.51168947478e-07
+Total; Estimate; All households - With retirement income: -0.000339240286008,5.81749616238e-07
+Percent Females; Margin of Error; Asian alone - Bachelor's degree or higher: -0.000339308635571,2.63703565728e-07
+Mean income (dollars); Estimate; White alone, not Hispanic or Latino: -0.00034149932232,8.42223736489e-07
+Percent Females; Estimate; Population 25 years and over - Associate's degree: -0.000347274987457,6.33975613464e-07
+Males; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): -0.00035365427122,7.76515255286e-07
+Percent Males; Margin of Error; Some other race alone - High school graduate or higher: -0.000443573590443,5.80407323995e-07
+Percent; Estimate; Population 25 years and over - Graduate or professional degree: -0.000506891122859,1.98616299762e-06
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: -0.000543764067182,6.6751047457e-07
+Mean income (dollars); Estimate; All households - With Supplemental Security Income (SSI): -0.000572391910833,4.3445855733e-07
+Percent; Estimate; Population 25 to 34 years - Bachelor's degree or higher: -0.000671302359838,2.77248252866e-06
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings: -0.000726165214791,9.13006694543e-07
+Females; Margin of Error; Population 65 years and over - High school graduate or higher: -0.000731784845496,1.55416019828e-06
+Percent; Estimate; Population 25 years and over - Associate's degree: -0.000752714561047,1.42663207588e-06
+Percent Females; Estimate; Population 25 years and over - Less than 9th grade: -0.000758279107117,1.65681580352e-06
+Percent Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: -0.000774825356564,1.50168153916e-06
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: -0.000790414564377,1.29824042392e-06
+Percent; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: -0.000809284436172,1.09429716036e-06
+Percent Males; Estimate; Some other race alone - Bachelor's degree or higher: -0.000855500508077,4.36402744952e-07
+Females; Margin of Error; Population 25 to 34 years: -0.000874256195691,1.23496104016e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: -0.000932238194209,5.15112426916e-07
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: -0.000995065512801,2.81316712706e-06
+Margin of Error; Total: - Two or more races:: -0.00102699626388,2.68350401882e-06
+Mean income (dollars); Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: -0.00106453393841,1.04467630744e-06
+Mean income (dollars); Margin of Error; All households - With cash public assistance income: -0.00108350226257,5.61316728456e-07
+Percent; Estimate; Population 18 to 24 years - Bachelor's degree or higher: -0.00109390156438,3.68499102486e-06
+Males; Margin of Error; Population 65 years and over - High school graduate or higher: -0.00113519597727,3.58748667784e-06
+Percent Females; Estimate; Population 45 to 64 years - High school graduate or higher: -0.00120568770463,5.77290743192e-06
+Percent; Margin of Error; Population 25 years and over - Some college, no degree: -0.00126017536398,4.81033190303e-06
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families: -0.00132639569917,1.58303053711e-06
+Total; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: -0.00143224971523,8.38311272494e-06
+Percent Males; Margin of Error; Population 25 years and over - Less than 9th grade: -0.00143784381944,7.45891032522e-06
+Mean income (dollars); Estimate; Hispanic or Latino origin (of any race): -0.00147814449087,3.07542647257e-06
+Total; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: -0.00152271801059,2.51955051662e-06
+Percent Females; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: -0.00152673772672,4.4048104211e-06
+Mean income (dollars); Margin of Error; Hispanic or Latino origin (of any race): -0.00153877165457,4.4722417701e-06
+Mean income (dollars); Estimate; All households - With cash public assistance income: -0.00159119019878,1.0625447797e-06
+Percent Females; Margin of Error; Population 35 to 44 years - High school graduate or higher: -0.00166225184311,3.34040501005e-06
+Males; Margin of Error; Population 25 to 34 years: -0.00178202845577,4.63208869157e-06
+Males; Margin of Error; Population 25 to 34 years - Bachelor's degree or higher: -0.00179137075447,5.3997057843e-06
+Total; Margin of Error; White alone, not Hispanic or Latino_data_./data/income.csv: -0.00185065094276,9.92079598473e-07
+Females; Estimate; Black alone: -0.00204536876194,2.3733749957e-06
+Percent Females; Estimate; Population 45 to 64 years - Bachelor's degree or higher: -0.00211932137628,8.21600674036e-06
+Percent; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: -0.00217980753543,1.92164129776e-05
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree: -0.00220848380668,1.6208926926e-06
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: -0.0023806360328,1.8834010487e-06
+Males; Margin of Error; Population 35 to 44 years: -0.00239136052853,4.17363894817e-06
+Percent; Margin of Error; Population 25 years and over - Less than 9th grade: -0.00251372196591,2.94116848383e-06
+Percent Males; Estimate; Population 35 to 44 years - High school graduate or higher: -0.00257498182722,3.20879383626e-06
+Percent Females; Margin of Error; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: -0.00257988994969,3.38703167724e-06
+Percent Males; Estimate; Population 18 to 24 years - Bachelor's degree or higher: -0.00259486322868,2.48386084411e-06
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: -0.00265956929674,1.09826653415e-05
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): -0.0027139014235,5.50755985245e-06
+Margin of Error; Total: - Black or African American alone: -0.0027295496596,6.40512657007e-06
+Percent Males; Estimate; Population 18 to 24 years - Less than high school graduate: -0.00286180371506,4.00366636271e-06
+Percent Males; Estimate; Population 25 years and over - Associate's degree: -0.00306685359982,7.64632081848e-06
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - High school graduate (includes equivalency): -0.00321871394356,2.74382598032e-06
+Percent; Estimate; Population 45 to 64 years - High school graduate or higher: -0.00322049431155,2.38017955178e-05
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian: -0.00322911479767,1.13031491433e-06
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander: -0.00333626620464,3.28397262451e-06
+Percent Males; Estimate; Population 45 to 64 years - High school graduate or higher: -0.0035139988268,9.88683560126e-06
+Percent; Margin of Error; American Indian or Alaska Native alone - Bachelor's degree or higher: -0.00368867443825,2.5543089781e-06
+Percent Females; Margin of Error; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate: -0.00386274192565,4.61528384758e-06
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: -0.00410626130268,3.0428916692e-06
+Males; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: -0.00419808200154,4.367878983e-06
+Females; Margin of Error; Population 25 years and over: -0.00423382697563,2.08718862669e-06
+Females; Margin of Error; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: -0.00451373849941,5.4697797762e-06
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: -0.00455053876634,3.35557199317e-05
+Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native: -0.0045963971177,7.57579241628e-07
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Some college or associate's degree: -0.00467627977856,5.72284021181e-07
+Total; Estimate; All households - With Supplemental Security Income (SSI): -0.0047524383021,5.04009679017e-06
+Females; Margin of Error; White alone, not Hispanic or Latino: -0.00476848254056,6.7644016361e-06
+Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: -0.00477498207977,9.59781326155e-07
+Percent Males; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: -0.00479155587256,2.40977865037e-05
+Percent Females; Margin of Error; Hispanic or Latino Origin - Bachelor's degree or higher: -0.00484379172999,7.98708596257e-06
+Percent Females; Estimate; Two or more races - High school graduate or higher: -0.00491889296028,1.38001687145e-05
+Percent Females; Margin of Error; Black alone - Bachelor's degree or higher: -0.00493233384955,7.12176765741e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, other: -0.0049556323144,6.63251745622e-06
+Percent; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: -0.00526222005588,1.31673772545e-05
+Margin of Error; Total: - Two or more races: - Two races including Some other race: -0.0059564145487,1.21370485809e-05
+Percent; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Some college or associate's degree: -0.00599555480906,2.57946481775e-05
+Mean income (dollars); Margin of Error; All households - With retirement income: -0.0060911802137,9.42611360011e-07
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Less than high school graduate: -0.00629342984666,2.52993120943e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race: -0.00637246839423,2.14435563756e-06
+Percent Males; Estimate; Some other race alone - High school graduate or higher: -0.0064443614635,1.04080906937e-05
+Females; Margin of Error; Population 18 to 24 years: -0.00652659614566,3.97039594068e-06
+Percent Males; Estimate; Hispanic or Latino Origin - High school graduate or higher: -0.00756179030242,1.15358191109e-05
+Percent; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: -0.00761088344236,2.05301481407e-05
+Percent Females; Estimate; Percent bachelor's degree or higher: -0.00779163126198,0.000143505766396
+Percent Females; Estimate; White alone, not Hispanic or Latino - High school graduate or higher: -0.00791160809985,2.77500365548e-05
+Percent Females; Estimate; Population 25 to 34 years - Bachelor's degree or higher: -0.00797505812594,5.22481735742e-06
+Percent Males; Estimate; Native Hawaiian and Other Pacific Islander alone - High school graduate or higher: -0.00822025318356,5.04028971143e-07
+Percent Females; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Bachelor's degree or higher: -0.00848984244982,1.42398845564e-05
+Males; Estimate; Population 25 to 34 years - Bachelor's degree or higher: -0.00907951931884,1.10734897975e-05
+Mean income (dollars); Margin of Error; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: -0.0091299499035,3.6543180208e-06
+Total; Margin of Error; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - Two or more races: -0.00915085090857,2.55703771299e-06
+Total; Estimate; All households - With cash public assistance income: -0.0102919684562,3.06422023079e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 2 workers, other: -0.0116038590602,8.49922091031e-06
+Total; Estimate; FAMILY INCOME BY NUMBER OF WORKERS IN FAMILY - All families - 3 or more workers, husband and wife worked: -0.0154655929271,2.26307766718e-05
+Females; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Graduate or professional degree: -0.0159077342989,1.29913882535e-05
+Percent Males; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - High school graduate (includes equivalency): -0.016619214033,1.98853348904e-05
+Percent Females; Margin of Error; White alone, not Hispanic or Latino - Bachelor's degree or higher: -0.0210793301615,7.45591236963e-05
+Percent Males; Margin of Error; White alone, not Hispanic or Latino - High school graduate or higher: -0.0218125380264,3.32875610994e-05
+Percent Females; Estimate; Population 25 years and over - Graduate or professional degree: -0.0245476912268,1.45558512997e-05
+Total; Estimate; All households - With interest, dividends, or net rental income: -0.0247086977511,8.64040111552e-06
+Total; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American: -0.0264116692273,3.5318133265e-06
+Percent Females; Estimate; Population 65 years and over - Bachelor's degree or higher: -0.0291111058499,1.65714423708e-05

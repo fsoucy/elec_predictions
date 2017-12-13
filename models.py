@@ -13,10 +13,11 @@ import copy
 import matplotlib.pyplot as plt
 from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score
+from sklearn import preprocessing
 
 
 
-folder = './cleanedData/'
+folder = './data/'
 
 X = cd.loadFilesFrom(folder)
 #X = pd.read_csv('./data/education.csv',encoding='mac_roman')
@@ -28,6 +29,8 @@ for col in cols:
 originalData = copy.deepcopy(X)
 y = pd.read_csv('./election_results.csv')
 X = cd.addYcol(X,y)
+
+X = pd.read_csv("./2012/dataWithY.csv")
 
 mat = X.as_matrix()
 mat = list(mat)
@@ -43,6 +46,7 @@ for i in range(len(mat)):
 mat = np.array(mat)
 np.random.shuffle(mat)
 X = mat[:,:-1]
+#X = preprocessing.scale(X)
 Y = mat[:,-1]
 
 def getAccuracy(yTrue, yPred):
@@ -62,13 +66,14 @@ def binarize(someY):
     otherY[otherY > 0.5] = 1
     return otherY.astype('int')
 
-trainX = X[:720,:]; trainY = Y[:720];
+trainX = X[:2000,:]; trainY = Y[:2000];
 valX = X[600:720, :]; valY = Y[600:720];
-testX = X[720:, :]; testY = Y[720:];
+testX = X[2000:, :]; testY = Y[2000:];
 
 trainY, valY, testY = binarize(trainY), binarize(valY), binarize(testY)
 
-Cs = [0.0000001, 0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 0.8, 1.0, 2.0, 5.0, 10.0, 20.0, 25.0, 50.0, 100.0]
+
+#Cs = [0.0000001, 0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 0.8, 1.0, 2.0, 5.0, 10.0, 20.0, 25.0, 50.0, 100.0]
 
 model = XGBClassifier()
 model.fit(trainX, trainY)
@@ -78,11 +83,39 @@ trainPred = [round(value) for value in trainPred]
 testPred = [round(value) for value in testPred]
 trainAccuracy = getAccuracy(trainY, trainPred)
 testAccuracy = getAccuracy(testY, testPred)
-
 print("Train accuracy: " + str(trainAccuracy))
 print("Test accuracy: " + str(testAccuracy))
 
-pdb.set_trace()
+
+"""
+weights = []
+for i in range(100):
+    i = np.random.randint(820 - 600)
+    sampleX = X[i: i+600, :]
+    sampleY = Y[i: i+600]
+    model = Lasso(alpha=0.001, fit_intercept=True)
+    model.fit(sampleX, sampleY)
+    weights.append(np.abs(model.coef_))
+weights = np.array(weights)
+mean = np.mean(weights, axis=0)
+std = np.sqrt(np.var(weights, axis=0))
+mean_weights = list(mean)
+std_weights = list(std)
+
+feature_importances = []
+output_file = "lassoFeaturesCleaned.txt"
+output = ""
+for i, feature in enumerate(cols):
+    feature_importances.append((feature, mean_weights[i], std_weights[i]))
+feature_importances.sort(key=lambda x: x[1], reverse=True)
+for feature, weight, weight_std in feature_importances:
+    output += feature + ": " + str(weight) + "," + str(weight_std) + "\n"
+f = open(output_file, "a")
+f.write(output)
+f.close()
+"""
+"""
+print(trainX.shape)
 
 
 maxResult = 0.0; bestC = 0.0
@@ -107,7 +140,7 @@ print("Best C: " + str(bestC))
 print("Train Accuracy: " + str(trainAcc))
 print("Validation Accuracy: " + str(valAcc))
 print("Test Accuracy: " + str(testAcc))
-
+"""
 """
 binarizedTrainY = trainY.copy(); binarizedTestY = testY.copy();
 binarizedTrainY[binarizedTrainY < 0.5] = 0.0
@@ -155,21 +188,31 @@ f.close()
 pdb.set_trace()
 """
 
-
-lams = [0.0000001] + [10.0, 25.0] + [50.0, 100.0, 200.0, 250.0, 300.0, 350.0, 400.0]
+lams = [0.1, 0.5, 1.0, 5.0, 10.0, 25.0] + [50.0, 100.0, 200.0, 250.0, 300.0, 350.0, 400.0]
 #lams = [0.0000001, 0.0001, 0.0005, 0.0008, 0.001, 0.003, 0.005, 0.008, 0.01, 0.05, 0.08, 0.1, 0.3, 0.5]
-scores = []
+ridgeScores = []
+lassoScores = []
 for lam in lams:
-    model = Ridge(alpha=lam, fit_intercept=True)
-    model.fit(trainX, trainY)
-    score = model.score(testX, testY)
-    scores.append(score)
+    #ridgeModel = LogisticRegression(penalty='l2', fit_intercept=True, C=1.0/lam)
+    ridgeModel = Ridge(alpha=lam, fit_intercept=True)
+    ridgeModel.fit(trainX, trainY)
+    ridgeScore = ridgeModel.score(testX, testY)
+    ridgeScores.append(ridgeScore)
+    #lassoModel = LogisticRegression(penalty='l1', fit_intercept=True, C=1.0/lam)
+    lassoModel = Lasso(alpha=lam, fit_intercept=True)
+    lassoModel.fit(trainX, trainY)
+    lassoScore = lassoModel.score(testX, testY)
+    lassoScores.append(lassoScore)
 
-plt.plot(lams, scores, 'ro')
+print(ridgeScores)
+print(lassoScores)
+plt.plot(lams, ridgeScores, 'ro', label='Ridge')
+plt.plot(lams, lassoScores, 'bs', label='LASSO')
 plt.xlabel("Lambda Regularization Coefficient")
-plt.ylabel("R Squared Metric")
-plt.title("Ridge regression - Uncleaned Data")
-plt.savefig("ridge_uncleaned.png")
+plt.ylabel("R^2 Metric")
+plt.title("Regression - 2012 Data")
+plt.legend()
+plt.savefig("regression_2012.png")
 plt.show()
 print(scores)
 pdb.set_trace()
