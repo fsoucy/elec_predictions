@@ -23,7 +23,7 @@ df = X.copy(deep=True)
 
 
 Y = X.iloc[:,-1].as_matrix()
-X = X.iloc[:,:-1].as_matrix()
+X = X.iloc[:,0:-1].as_matrix()
 
 temp = np.nan_to_num(X)
 for i in range(len(temp)):
@@ -58,6 +58,12 @@ for k,v in d.items():
 	print('##################################')
 	print('Cluster:',k)
 	arr = np.concatenate(v).reshape(len(v),1)
+	numGOP = 0
+	for i in range(len(arr)):
+		if type(arr[i,0]) != type(None):
+			if arr[i,0] >= 0.5:
+				numGOP += 1
+
 	tot = 0
 	for i in range(len(arr)):
 		if type(arr[i,0]) == type(None):
@@ -78,8 +84,47 @@ for k,v in d.items():
 	print('Percent GOP Mean:',avg)
 	print('Percent GOP STD:',std)
 	print('Number Assigned:',arr.size)
+	print('Number GOP:',numGOP)
+	print('Percent County GOP:',float(numGOP)/float(arr.size))
+	print('########################################################')
+# print(X)
+Xgop , ygop = None,None
+Xdem, ydem = None, None
+predGOP, predDem = None,None
 
-print('columsn:',df.columns)
-plt.scatter(X[:,0],X[:,1],c=pred)
-plt.legend()
+for i in range(len(X)):
+	gop = False
+
+	if type(Y[i,0]) == type(None):
+		continue
+
+	if Y[i] >= 0.5:
+		gop = True
+
+	if gop:
+		if type(Xgop) != type(None):
+			Xgop = np.concatenate((Xgop,X[i,0:2].reshape(1,2)),axis=0)
+			ygop = np.concatenate((ygop,Y[i].reshape(1,1)),axis=0)
+			predGOP = np.concatenate((predGOP,pred[i].reshape(1,1)),axis=0)
+		if type(Xgop) == type(None):
+			Xgop = X[i,0:2].reshape(1,2)
+			ygop = Y[i].reshape(1,1)
+			predGOP = np.array(pred[i]).reshape(1,1)
+
+	else:
+		if type(Xdem) != type(None):
+			Xdem = np.concatenate((Xdem,X[i,0:2].reshape(1,2)),axis=0)
+			ydem = np.concatenate((ydem,Y[i].reshape(1,1)),axis=0)
+			predDem = np.concatenate((predDem,pred[i].reshape(1,1)),axis=0)
+		if type(Xdem) == type(None):
+			Xdem = X[i,0:2].reshape(1,2)
+			ydem = Y[i].reshape(1,1)
+			predDem = np.array(pred[i]).reshape(1,1)
+
+
+plt.figure()
+plt.scatter(Xgop[:,0],Xgop[:,1],c=predGOP,marker='x')
+plt.scatter(Xdem[:,0],Xdem[:,1],c=predDem,marker='o')
+plt.xlabel('County Population')
+plt.ylabel('Mean Household Income')
 plt.show()
